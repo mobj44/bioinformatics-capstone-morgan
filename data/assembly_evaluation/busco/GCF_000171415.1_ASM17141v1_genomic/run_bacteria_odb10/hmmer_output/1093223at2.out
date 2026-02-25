@@ -1,0 +1,22 @@
+#                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABEW01000003.1:140616-141932|- -            439 1093223at2           -            361   3.2e-96  320.9   0.0   1   1   6.2e-99   4.8e-96  320.3   0.0     2   358     6   437     5   438 0.83 NZ_ABEW01000003.1_125 # 140616 # 141932 # -1 # ID=61_125;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.583
+NZ_ABEW01000003.1:136714-138189|- -            492 1093223at2           -            361   2.6e-23   81.1   0.0   1   1   5.8e-26   4.5e-23   80.3   0.0    36   254    76   340    56   348 0.78 NZ_ABEW01000003.1_122 # 136714 # 138189 # -1 # ID=61_122;partial=00;start_type=ATG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.563
+NZ_ABEW01000003.1:143011-144369|- -            453 1093223at2           -            361   1.8e-15   55.2   0.3   1   1   4.5e-18   3.5e-15   54.3   0.3    63   279    87   359    48   384 0.78 NZ_ABEW01000003.1_127 # 143011 # 144369 # -1 # ID=61_127;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.565
+NZ_ABEW01000003.1:144366-145853|- -            496 1093223at2           -            361   2.5e-15   54.8   4.6   1   1   8.5e-16   6.7e-13   46.8   4.6    72   307   108   417   101   428 0.66 NZ_ABEW01000003.1_128 # 144366 # 145853 # -1 # ID=61_128;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.590
+NZ_ABEW01000003.1:471796-473169|- -            458 1093223at2           -            361   9.4e-11   39.7   0.0   1   2   2.9e-06    0.0023   15.4   0.0    53    98    79   128    62   158 0.77 NZ_ABEW01000003.1_426 # 471796 # 473169 # -1 # ID=61_426;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.589
+NZ_ABEW01000003.1:471796-473169|- -            458 1093223at2           -            361   9.4e-11   39.7   0.0   2   2   2.5e-08     2e-05   22.2   0.0   203   257   272   331   228   381 0.77 NZ_ABEW01000003.1_426 # 471796 # 473169 # -1 # ID=61_426;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.589
+NZ_ABEW01000006.1:53201-54469|+   -            423 1093223at2           -            361    0.0002   18.9   0.0   1   3   0.00016      0.13    9.7   0.0    72   100    48    76    25    91 0.81 NZ_ABEW01000006.1_50 # 53201 # 54469 # 1 # ID=58_50;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.580
+NZ_ABEW01000006.1:53201-54469|+   -            423 1093223at2           -            361    0.0002   18.9   0.0   2   3    0.0029       2.3    5.6   0.0   130   265   160   311   156   320 0.55 NZ_ABEW01000006.1_50 # 53201 # 54469 # 1 # ID=58_50;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.580
+NZ_ABEW01000006.1:53201-54469|+   -            423 1093223at2           -            361    0.0002   18.9   0.0   3   3       1.1   8.3e+02   -2.9   0.0   208   246   373   415   364   418 0.58 NZ_ABEW01000006.1_50 # 53201 # 54469 # 1 # ID=58_50;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.580
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1093223at2.hmm
+# Target file:     /output/GCF_000171415.1_ASM17141v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000171415.1_ASM17141v1_genomic/run_bacteria_odb10/hmmer_output/1093223at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1093223at2.hmm /output/GCF_000171415.1_ASM17141v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:53:22 2026
+# [ok]

@@ -1,0 +1,20 @@
+#                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABEH02000011.1:101652-103484|- -            611 1036075at2           -            356   9.7e-86  286.2  17.7   1   5   4.7e-14   6.6e-11   40.0   0.3     1    39    18    58    18    66 0.85 NZ_ABEH02000011.1_107 # 101652 # 103484 # -1 # ID=9_107;partial=00;start_type=GTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.535
+NZ_ABEH02000011.1:101652-103484|- -            611 1036075at2           -            356   9.7e-86  286.2  17.7   2   5   4.6e-33   6.5e-30  102.5   5.3    28   155    64   238    58   282 0.81 NZ_ABEH02000011.1_107 # 101652 # 103484 # -1 # ID=9_107;partial=00;start_type=GTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.535
+NZ_ABEH02000011.1:101652-103484|- -            611 1036075at2           -            356   9.7e-86  286.2  17.7   3   5     0.082   1.1e+02   -0.2   0.0   187   210   339   365   322   370 0.73 NZ_ABEH02000011.1_107 # 101652 # 103484 # -1 # ID=9_107;partial=00;start_type=GTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.535
+NZ_ABEH02000011.1:101652-103484|- -            611 1036075at2           -            356   9.7e-86  286.2  17.7   4   5     4e-26   5.6e-23   79.7   0.0   196   281   377   480   356   484 0.81 NZ_ABEH02000011.1_107 # 101652 # 103484 # -1 # ID=9_107;partial=00;start_type=GTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.535
+NZ_ABEH02000011.1:101652-103484|- -            611 1036075at2           -            356   9.7e-86  286.2  17.7   5   5   2.6e-20   3.6e-17   60.6   0.1   286   356   524   604   522   604 0.91 NZ_ABEH02000011.1_107 # 101652 # 103484 # -1 # ID=9_107;partial=00;start_type=GTG;rbs_motif=4Base/6BMM;rbs_spacer=13-15bp;gc_cont=0.535
+NZ_ABEH02000002.1:39684-40565|-   -            294 1036075at2           -            356     1e-21   75.5   0.0   1   1   6.6e-22   9.3e-19   65.8   0.0     1   159    35   239    35   245 0.75 NZ_ABEH02000002.1_43 # 39684 # 40565 # -1 # ID=18_43;partial=00;start_type=GTG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.554
+NZ_ABEH02000007.1:98280-100301|+  -            674 1036075at2           -            356   0.00011   19.6   0.5   1   1   1.3e-07   0.00018   18.8   0.5   120   156   633   668   625   673 0.86 NZ_ABEH02000007.1_94 # 98280 # 100301 # 1 # ID=13_94;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.551
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1036075at2.hmm
+# Target file:     /output/GCF_000171255.1_ASM17125v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000171255.1_ASM17125v1_genomic/run_bacteria_odb10/hmmer_output/1036075at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1036075at2.hmm /output/GCF_000171255.1_ASM17125v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:51:52 2026
+# [ok]

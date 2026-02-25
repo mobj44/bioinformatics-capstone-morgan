@@ -1,0 +1,54 @@
+/usr/local/bin/quast.py /input/GCF_000007545.1_ASM754v1_genomic.fna -o /output/GCF_000007545.1_ASM754v1_genomic
+
+Version: 5.2.0
+
+System information:
+  OS: Linux-6.4.16-linuxkit-aarch64-with-glibc2.41 (linux_64)
+  Python version: 3.11.14
+  CPUs number: 10
+
+Started: 2026-02-25 16:53:54
+
+Logging to /output/GCF_000007545.1_ASM754v1_genomic/quast.log
+NOTICE: Maximum number of threads is set to 2 (use --threads option to set it manually)
+
+CWD: /
+Main parameters: 
+  MODE: default, threads: 2, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+WARNING: Can't draw plots: python-matplotlib is missing or corrupted.
+
+Contigs:
+  Pre-processing...
+  /input/GCF_000007545.1_ASM754v1_genomic.fna ==> GCF_000007545.1_ASM754v1_genomic
+
+2026-02-25 16:53:54
+Running Basic statistics processor...
+  Contig files: 
+    GCF_000007545.1_ASM754v1_genomic
+  Calculating N50 and L50...
+    GCF_000007545.1_ASM754v1_genomic, N50 = 4791961, L50 = 1, auN = 4791961.0, Total length = 4791961, GC % = 52.05, # N's per 100 kbp =  0.23
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-02-25 16:53:54
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 1: Creating Icarus viewers...
+Done
+
+2026-02-25 16:53:54
+RESULTS:
+  Text versions of total report are saved to /output/GCF_000007545.1_ASM754v1_genomic/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /output/GCF_000007545.1_ASM754v1_genomic/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /output/GCF_000007545.1_ASM754v1_genomic/report.html
+  Icarus (contig browser) is saved to /output/GCF_000007545.1_ASM754v1_genomic/icarus.html
+  Log is saved to /output/GCF_000007545.1_ASM754v1_genomic/quast.log
+
+Finished: 2026-02-25 16:53:55
+Elapsed time: 0:00:00.442565
+NOTICEs: 2; WARNINGs: 2; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

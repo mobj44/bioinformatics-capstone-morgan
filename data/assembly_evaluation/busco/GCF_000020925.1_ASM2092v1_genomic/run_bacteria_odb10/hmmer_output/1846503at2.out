@@ -1,0 +1,21 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_011205.1:3960325-3960804|+ -            160 1846503at2           -            110   5.4e-38  127.4   0.2   1   1   4.3e-39     4e-36  121.3   0.2     1   108     3   137     3   139 0.87 NC_011205.1_3791 # 3960325 # 3960804 # 1 # ID=1_3791;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.533
+NC_011205.1:4821296-4822528|+ -            411 1846503at2           -            110   4.2e-06   24.7   0.0   1   2     2e-07   0.00019   19.4   0.0     2    37    66   101    65   138 0.88 NC_011205.1_4573 # 4821296 # 4822528 # 1 # ID=1_4573;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.509
+NC_011205.1:4821296-4822528|+ -            411 1846503at2           -            110   4.2e-06   24.7   0.0   2   2     0.042        40    2.3   0.0     8    31   283   306   276   315 0.87 NC_011205.1_4573 # 4821296 # 4822528 # 1 # ID=1_4573;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.509
+NC_011205.1:744248-744898|-   -            217 1846503at2           -            110   0.00075   17.5   0.0   1   2   3.3e-06    0.0031   15.5   0.0     2    28     8    34     7    44 0.81 NC_011205.1_706 # 744248 # 744898 # -1 # ID=1_706;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NC_011205.1:744248-744898|-   -            217 1846503at2           -            110   0.00075   17.5   0.0   2   2      0.47   4.4e+02   -1.1   0.0    88   105   172   189   164   193 0.84 NC_011205.1_706 # 744248 # 744898 # -1 # ID=1_706;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NC_011205.1:3409609-3411042|- -            478 1846503at2           -            110    0.0029   15.6   0.0   1   1   7.7e-06    0.0072   14.3   0.0     3    38   343   378   341   384 0.88 NC_011205.1_3275 # 3409609 # 3411042 # -1 # ID=1_3275;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.577
+NC_011205.1:68706-69674|+     -            323 1846503at2           -            110     0.011   13.7   0.0   1   2   3.1e-05     0.029   12.3   0.0    10    49   133   178   127   194 0.83 NC_011205.1_59 # 68706 # 69674 # 1 # ID=1_59;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.543
+NC_011205.1:68706-69674|+     -            323 1846503at2           -            110     0.011   13.7   0.0   2   2       1.8   1.7e+03   -3.0   0.0    93   107   277   291   267   293 0.74 NC_011205.1_59 # 68706 # 69674 # 1 # ID=1_59;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.543
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm
+# Target file:     /output/GCF_000020925.1_ASM2092v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000020925.1_ASM2092v1_genomic/run_bacteria_odb10/hmmer_output/1846503at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm /output/GCF_000020925.1_ASM2092v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:49:57 2026
+# [ok]

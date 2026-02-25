@@ -1,0 +1,15 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABFG01000008.1:2540-3568|- -            343 841869at2            -            213   3.7e-41  138.7   0.5   1   2   1.2e-20   5.4e-17   59.7   0.1     2   109     3   139     2   160 0.81 NZ_ABFG01000008.1_4 # 2540 # 3568 # -1 # ID=43_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.532
+NZ_ABFG01000008.1:2540-3568|- -            343 841869at2            -            213   3.7e-41  138.7   0.5   2   2   6.8e-24     3e-20   70.4   0.0   140   213   225   330   202   330 0.83 NZ_ABFG01000008.1_4 # 2540 # 3568 # -1 # ID=43_4;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.532
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/841869at2.hmm
+# Target file:     /output/GCF_000171515.1_ASM17151v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000171515.1_ASM17151v1_genomic/run_bacteria_odb10/hmmer_output/841869at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/841869at2.hmm /output/GCF_000171515.1_ASM17151v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:54:01 2026
+# [ok]

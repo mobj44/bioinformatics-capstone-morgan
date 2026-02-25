@@ -1,0 +1,127 @@
+# BUSCO version is: 6.0.0 
+# The lineage dataset is: bacteria_odb10 (Creation date: 2024-01-08, number of genomes: 4085, number of BUSCOs: 124)
+# Busco id	Status	Sequence	Gene Start	Gene End	Strand	Score	Length	OrthoDB url	Description
+4421at2	Complete	NZ_ABEH02000013.1	23699	19476	-	1843.7	1176	https://v10-1.orthodb.org/?query=4421at2	DNA-directed RNA polymerase subunit beta'
+9601at2	Complete	NZ_ABEH02000013.1	27804	23776	-	1274.7	801	https://v10-1.orthodb.org/?query=9601at2	DNA-directed RNA polymerase, subunit 2, hybrid-binding domain
+26038at2	Complete	NZ_ABEH02000006.1	203663	207550	+	261.0	392	https://v10-1.orthodb.org/?query=26038at2	PurM-like, C-terminal domain
+91428at2	Complete	NZ_ABEH02000003.1	3174	544	-	588.4	529	https://v10-1.orthodb.org/?query=91428at2	Alanine--tRNA ligase
+95696at2	Complete	NZ_ABEH02000007.1	98280	100301	+	770.8	490	https://v10-1.orthodb.org/?query=95696at2	excinuclease ABC subunit B
+143460at2	Complete	NZ_ABEH02000008.1	120206	122029	+	563.9	439	https://v10-1.orthodb.org/?query=143460at2	GTP-binding protein
+182107at2	Complete	NZ_ABEH02000006.1	187233	189032	+	735.2	491	https://v10-1.orthodb.org/?query=182107at2	Elongation factor 4
+219876at2	Complete	NZ_ABEH02000004.1	52382	53782	+	331.4	277	https://v10-1.orthodb.org/?query=219876at2	Chromosomal replication initiator protein DnaA
+223233at2	Complete	NZ_ABEH02000002.1	474477	471880	-	516.8	426	https://v10-1.orthodb.org/?query=223233at2	DNA topoisomerase, type IA
+226836at2	Complete	NZ_ABEH02000011.1	62101	60329	-	608.9	473	https://v10-1.orthodb.org/?query=226836at2	Aminoacyl-tRNA synthetase, class II
+232152at2	Complete	NZ_ABEH02000001.1	199627	200925	+	326.0	280	https://v10-1.orthodb.org/?query=232152at2	adenylosuccinate synthase
+267682at2	Complete	NZ_ABEH02000005.1	381966	380449	-	273.7	284	https://v10-1.orthodb.org/?query=267682at2	Amidophosphoribosyltransferase
+353391at2	Complete	NZ_ABEH02000007.1	229863	231155	+	415.8	313	https://v10-1.orthodb.org/?query=353391at2	Serine--tRNA ligase
+384865at2	Complete	NZ_ABEH02000003.1	476531	475029	-	177.9	211	https://v10-1.orthodb.org/?query=384865at2	Transcription termination/antitermination protein NusA
+402899at2	Complete	NZ_ABEH02000002.1	174171	175445	+	337.4	283	https://v10-1.orthodb.org/?query=402899at2	Tyrosine--tRNA ligase
+430176at2	Complete	NZ_ABEH02000004.1	26206	27588	+	578.8	360	https://v10-1.orthodb.org/?query=430176at2	ATPase, F1/V1/A1 complex, alpha/beta subunit, N-terminal domain
+462069at2	Complete	NZ_ABEH02000003.1	248460	247297	-	180.7	220	https://v10-1.orthodb.org/?query=462069at2	Phosphoglycerate kinase
+469058at2	Complete	NZ_ABEH02000002.1	66090	67073	+	432.4	294	https://v10-1.orthodb.org/?query=469058at2	Phenylalanine--tRNA ligase alpha subunit
+504464at2	Complete	NZ_ABEH02000006.1	290891	292468	+	309.2	233	https://v10-1.orthodb.org/?query=504464at2	GMP synthase
+505485at2	Complete	NZ_ABEH02000001.1	375903	377285	+	212.6	233	https://v10-1.orthodb.org/?query=505485at2	Ribosomal protein S5 domain 2-type fold
+533698at2	Complete	NZ_ABEH02000003.1	117132	115834	-	365.0	285	https://v10-1.orthodb.org/?query=533698at2	Enolase
+662686at2	Complete	NZ_ABEH02000016.1	1715	2704	+	263.4	226	https://v10-1.orthodb.org/?query=662686at2	DNA-directed RNA polymerase subunit alpha
+665824at2	Complete	NZ_ABEH02000001.1	682074	680356	-	824.2	533	https://v10-1.orthodb.org/?query=665824at2	Proline--tRNA ligase
+761140at2	Complete	NZ_ABEH02000005.1	177808	179841	+	200.6	301	https://v10-1.orthodb.org/?query=761140at2	Methionine--tRNA ligase
+776861at2	Complete	NZ_ABEH02000007.1	251061	251744	+	286.6	206	https://v10-1.orthodb.org/?query=776861at2	Cytidylate kinase
+837522at2	Complete	NZ_ABEH02000004.1	23724	25265	+	641.7	407	https://v10-1.orthodb.org/?query=837522at2	ATP synthase subunit alpha
+841869at2	Complete	NZ_ABEH02000017.1	247	1275	+	138.6	182	https://v10-1.orthodb.org/?query=841869at2	UDP-N-acetylenolpyruvoylglucosamine reductase
+874197at2	Complete	NZ_ABEH02000011.1	55808	54798	-	427.1	273	https://v10-1.orthodb.org/?query=874197at2	Holliday junction ATP-dependent DNA helicase RuvB
+923547at2	Complete	NZ_ABEH02000006.1	307539	306382	-	467.7	315	https://v10-1.orthodb.org/?query=923547at2	Phosphoribosylformylglycinamidine cyclo-ligase
+932854at2	Complete	NZ_ABEH02000013.1	2584	3873	+	684.5	418	https://v10-1.orthodb.org/?query=932854at2	Phosphoribosylamine--glycine ligase
+932993at2	Complete	NZ_ABEH02000009.1	225	1523	+	92.9	233	https://v10-1.orthodb.org/?query=932993at2	Trigger factor
+961486at2	Missing
+981870at2	Complete	NZ_ABEH02000005.1	400444	399359	-	328.7	267	https://v10-1.orthodb.org/?query=981870at2	Chorismate synthase
+984717at2	Complete	NZ_ABEH02000006.1	190974	191879	+	227.3	221	https://v10-1.orthodb.org/?query=984717at2	GTPase Era
+1009041at2	Complete	NZ_ABEH02000001.1	550869	552020	+	260.1	220	https://v10-1.orthodb.org/?query=1009041at2	Cell division protein FtsZ
+1024388at2	Complete	NZ_ABEH02000003.1	265860	267014	+	460.6	307	https://v10-1.orthodb.org/?query=1024388at2	S-adenosylmethionine synthetase
+1036075at2	Complete	NZ_ABEH02000011.1	103484	101652	-	286.2	321	https://v10-1.orthodb.org/?query=1036075at2	GIY-YIG endonuclease
+1043239at2	Complete	NZ_ABEH02000001.1	654151	654876	+	142.6	155	https://v10-1.orthodb.org/?query=1043239at2	Uridylate kinase
+1049662at2	Complete	NZ_ABEH02000013.1	979	2568	+	606.2	438	https://v10-1.orthodb.org/?query=1049662at2	Methylglyoxal synthase-like domain
+1054741at2	Complete	NZ_ABEH02000010.1	166289	165183	-	455.3	329	https://v10-1.orthodb.org/?query=1054741at2	tRNA-specific 2-thiouridylase
+1069591at2	Complete	NZ_ABEH02000001.1	194074	195024	+	160.8	180	https://v10-1.orthodb.org/?query=1069591at2	tRNA dimethylallyltransferase
+1074831at2	Complete	NZ_ABEH02000006.1	121118	119457	-	302.9	383	https://v10-1.orthodb.org/?query=1074831at2	DNA repair protein RecN
+1080436at2	Complete	NZ_ABEH02000003.1	5088	4027	-	393.5	263	https://v10-1.orthodb.org/?query=1080436at2	Protein RecA
+1093223at2	Complete	NZ_ABEH02000001.1	542585	543901	+	320.9	357	https://v10-1.orthodb.org/?query=1093223at2	Mur ligase, C-terminal
+1132353at2	Missing
+1151822at2	Complete	NZ_ABEH02000001.1	541500	542582	+	281.9	250	https://v10-1.orthodb.org/?query=1151822at2	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+1166299at2	Complete	NZ_ABEH02000003.1	471704	470760	-	135.0	120	https://v10-1.orthodb.org/?query=1166299at2	tRNA pseudouridine synthase B
+1211060at2	Complete	NZ_ABEH02000016.1	1069	1689	+	214.7	164	https://v10-1.orthodb.org/?query=1211060at2	RNA-binding S4 domain
+1257362at2	Complete	NZ_ABEH02000003.1	394450	393437	-	251.4	235	https://v10-1.orthodb.org/?query=1257362at2	tRNA N6-adenosine threonylcarbamoyltransferase
+1266295at2	Complete	NZ_ABEH02000008.1	192553	191786	-	317.3	249	https://v10-1.orthodb.org/?query=1266295at2	Triosephosphate isomerase
+1270636at2	Missing
+1272633at2	Complete	NZ_ABEH02000001.1	535592	536533	+	141.3	156	https://v10-1.orthodb.org/?query=1272633at2	S-adenosyl-L-methionine-dependent methyltransferase
+1346419at2	Complete	NZ_ABEH02000004.1	172577	171354	-	332.1	298	https://v10-1.orthodb.org/?query=1346419at2	Flavoprotein
+1395197at2	Complete	NZ_ABEH02000001.1	658871	660223	+	135.2	156	https://v10-1.orthodb.org/?query=1395197at2	Peptidase M50
+1398618at2	Complete	NZ_ABEH02000018.1	3	503	+	124.5	117	https://v10-1.orthodb.org/?query=1398618at2	Ribosomal protein L6, alpha-beta domain
+1419877at2	Complete	NZ_ABEH02000004.1	200588	201607	+	266.0	260	https://v10-1.orthodb.org/?query=1419877at2	glycerol-3-phosphate dehydrogenase
+1456375at2	Missing
+1470978at2	Complete	NZ_ABEH02000013.1	29051	28554	-	83.7	115	https://v10-1.orthodb.org/?query=1470978at2	Ribosomal protein L10
+1490892at2	Complete	NZ_ABEH02000003.1	270356	271087	+	49.3	85	https://v10-1.orthodb.org/?query=1490892at2	16S rRNA (uracil(1498)-N(3))-methyltransferase
+1491686at2	Complete	NZ_ABEH02000009.1	44585	45229	+	142.7	130	https://v10-1.orthodb.org/?query=1491686at2	Adenylate kinase
+1497415at2	Complete	NZ_ABEH02000006.1	127709	128257	+	34.9	38	https://v10-1.orthodb.org/?query=1497415at2	Ribosome maturation factor RimM
+1502854at2	Complete	NZ_ABEH02000004.1	162997	162374	-	279.2	187	https://v10-1.orthodb.org/?query=1502854at2	Guanylate kinase
+1504821at2	Complete	NZ_ABEH02000001.1	446232	447170	+	202.9	221	https://v10-1.orthodb.org/?query=1504821at2	Riboflavin kinase
+1505038at2	Fragmented	NZ_ABEH02000018.1	881	1264	+	180.2	113	https://v10-1.orthodb.org/?query=1505038at2	Ribosomal protein S5
+1540940at2	Missing
+1567535at2	Missing
+1572673at2	Missing
+1574817at2	Complete	NZ_ABEH02000001.1	823801	824220	+	137.2	144	https://v10-1.orthodb.org/?query=1574817at2	Transcription antitermination protein NusB
+1590629at2	Complete	NZ_ABEH02000004.1	19904	20527	+	69.2	84	https://v10-1.orthodb.org/?query=1590629at2	rRNA small subunit methyltransferase G
+1592033at2	Complete	NZ_ABEH02000001.1	195487	196767	+	501.2	373	https://v10-1.orthodb.org/?query=1592033at2	GTPase HflX
+1595498at2	Complete	NZ_ABEH02000003.1	477011	476559	-	51.8	48	https://v10-1.orthodb.org/?query=1595498at2	Ribosome maturation factor RimP
+1623045at2	Complete	NZ_ABEH02000001.1	652172	652897	+	273.4	187	https://v10-1.orthodb.org/?query=1623045at2	Ribosomal protein S2
+1661836at2	Complete	NZ_ABEH02000009.1	41753	42358	+	159.6	150	https://v10-1.orthodb.org/?query=1661836at2	Recombination protein RecR
+1666043at2	Missing
+1671455at2	Fragmented	NZ_ABEH02000013.1	29700	29467	-	71.0	62	https://v10-1.orthodb.org/?query=1671455at2	Ribosomal protein L1
+1674344at2	Complete	NZ_ABEH02000001.1	655023	655580	+	160.5	136	https://v10-1.orthodb.org/?query=1674344at2	Ribosome recycling factor
+1676462at2	Complete	NZ_ABEH02000002.1	541036	541620	+	125.1	104	https://v10-1.orthodb.org/?query=1676462at2	Peptidyl-tRNA hydrolase
+1692188at2	Missing
+1698718at2	Complete	NZ_ABEH02000006.1	129110	129457	+	120.5	89	https://v10-1.orthodb.org/?query=1698718at2	Ribosomal protein L19
+1701531at2	Complete	NZ_ABEH02000004.1	25316	26179	+	172.5	146	https://v10-1.orthodb.org/?query=1701531at2	ATP synthase, F1 complex, gamma subunit
+1702697at2	Missing
+1707228at2	Missing
+1713391at2	Complete	NZ_ABEH02000016.1	646	1035	+	155.4	97	https://v10-1.orthodb.org/?query=1713391at2	Ribosomal protein S11
+1720952at2	Complete	NZ_ABEH02000006.1	117944	117417	-	196.7	142	https://v10-1.orthodb.org/?query=1720952at2	SsrA-binding protein
+1758685at2	Complete	NZ_ABEH02000006.1	191891	192619	+	75.4	104	https://v10-1.orthodb.org/?query=1758685at2	DNA repair protein RecO
+1760144at2	Complete	NZ_ABEH02000002.1	64654	65088	+	101.8	95	https://v10-1.orthodb.org/?query=1760144at2	Translation initiation factor 3, C-terminal
+1766414at2	Complete	NZ_ABEH02000012.1	59220	59612	+	115.8	99	https://v10-1.orthodb.org/?query=1766414at2	Ribosomal protein S9
+1772647at2	Missing
+1776954at2	Complete	NZ_ABEH02000001.1	220709	221104	+	65.3	70	https://v10-1.orthodb.org/?query=1776954at2	Ribosomal protein S6
+1786618at2	Missing
+1799923at2	Missing
+1822215at2	Complete	NZ_ABEH02000012.1	58776	59204	+	163.5	113	https://v10-1.orthodb.org/?query=1822215at2	Ribosomal protein L13
+1822695at2	Complete	NZ_ABEH02000013.1	28487	28122	-	92.0	88	https://v10-1.orthodb.org/?query=1822695at2	Ribosomal protein L7/L12
+1827295at2	Complete	NZ_ABEH02000001.1	190418	190879	+	84.5	69	https://v10-1.orthodb.org/?query=1827295at2	tRNA threonylcarbamoyl adenosine modification protein TsaE
+1827334at2	Complete	NZ_ABEH02000004.1	350593	349997	-	100.4	84	https://v10-1.orthodb.org/?query=1827334at2	methyltransferase
+1830156at2	Complete	NZ_ABEH02000009.1	194518	194045	-	80.2	76	https://v10-1.orthodb.org/?query=1830156at2	Endoribonuclease YbeY
+1838961at2	Complete	NZ_ABEH02000016.1	2745	3128	+	106.4	83	https://v10-1.orthodb.org/?query=1838961at2	Ribosomal protein L17
+1842956at2	Complete	NZ_ABEH02000017.1	1272	2234	+	45.5	77	https://v10-1.orthodb.org/?query=1842956at2	Biotin--acetyl-CoA-carboxylase ligase
+1844275at2	Complete	NZ_ABEH02000001.1	272175	271240	-	154.8	182	https://v10-1.orthodb.org/?query=1844275at2	Aspartate carbamoyltransferase
+1846503at2	Complete	NZ_ABEH02000004.1	175471	174992	-	127.4	108	https://v10-1.orthodb.org/?query=1846503at2	pantetheine-phosphate adenylyltransferase
+1874945at2	Missing
+1890943at2	Complete	NZ_ABEH02000006.1	190240	190977	+	80.0	106	https://v10-1.orthodb.org/?query=1890943at2	ribonuclease III
+1893906at2	Missing
+1904463at2	Complete	NZ_ABEH02000012.1	99257	99514	+	126.0	69	https://v10-1.orthodb.org/?query=1904463at2	Ribosomal protein L27
+1906715at2	Complete	NZ_ABEH02000006.1	122205	122795	+	48.9	71	https://v10-1.orthodb.org/?query=1906715at2	Protein GrpE
+1932144at2	Complete	NZ_ABEH02000002.1	65432	65788	+	125.6	93	https://v10-1.orthodb.org/?query=1932144at2	Ribosomal protein L20
+1937072at2	Complete	NZ_ABEH02000006.1	127442	127690	+	104.4	69	https://v10-1.orthodb.org/?query=1937072at2	Ribosomal protein S16
+1937493at2	Complete	NZ_ABEH02000004.1	23178	23711	+	143.5	158	https://v10-1.orthodb.org/?query=1937493at2	ATP synthase subunit delta
+1940575at2	Complete	NZ_ABEH02000001.1	221430	221657	+	87.5	48	https://v10-1.orthodb.org/?query=1940575at2	Ribosomal protein S18
+1949059at2	Complete	NZ_ABEH02000012.1	98926	99237	+	128.6	100	https://v10-1.orthodb.org/?query=1949059at2	Ribosomal protein L21
+1959318at2	Complete	NZ_ABEH02000001.1	221699	222148	+	85.6	82	https://v10-1.orthodb.org/?query=1959318at2	Ribosomal protein L9
+1963491at2	Complete	NZ_ABEH02000018.1	513	866	+	134.6	103	https://v10-1.orthodb.org/?query=1963491at2	Ribosomal protein L18
+1971380at2	Complete	NZ_ABEH02000003.1	472105	471704	-	135.6	124	https://v10-1.orthodb.org/?query=1971380at2	Ribosome-binding factor A
+1978865at2	Missing
+1990141at2	Complete	NZ_ABEH02000003.1	470609	470340	-	106.2	66	https://v10-1.orthodb.org/?query=1990141at2	Ribosomal protein S15
+1990650at2	Complete	NZ_ABEH02000009.1	174457	174140	-	89.9	80	https://v10-1.orthodb.org/?query=1990650at2	Ribosomal silencing factor RsfS
+2005443at2	Missing
+2012682at2	Missing
+2035880at2	Missing
+2040741at2	Missing
+2046660at2	Complete	NZ_ABEH02000002.1	65184	65381	+	34.3	34	https://v10-1.orthodb.org/?query=2046660at2	Ribosomal protein L35
+2063644at2	Missing
+2066663at2	Complete	NZ_ABEH02000007.1	216612	216394	-	93.6	57	https://v10-1.orthodb.org/?query=2066663at2	Translation initiation factor IF-1
+2075502at2	Complete	NZ_ABEH02000003.1	272833	273249	+	44.0	70	https://v10-1.orthodb.org/?query=2075502at2	YqgF/RNase H-like domain

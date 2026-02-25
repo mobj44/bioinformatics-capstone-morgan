@@ -1,0 +1,18 @@
+#                                                                                           --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                       accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#               ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABFH02000002.1:1631397-1632695|- -            433 932993at2            -            255   4.5e-27   92.8  31.8   1   5   7.7e-10   3.5e-06   24.4   0.1     9    58    15    72     7    84 0.83 NZ_ABFH02000002.1_1617 # 1631397 # 1632695 # -1 # ID=4_1617;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+NZ_ABFH02000002.1:1631397-1632695|- -            433 932993at2            -            255   4.5e-27   92.8  31.8   2   5   2.9e-10   1.3e-06   25.7   2.2    65   120    99   173    93   187 0.84 NZ_ABFH02000002.1_1617 # 1631397 # 1632695 # -1 # ID=4_1617;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+NZ_ABFH02000002.1:1631397-1632695|- -            433 932993at2            -            255   4.5e-27   92.8  31.8   3   5   7.7e-15   3.5e-11   40.8   2.7   117   190   197   286   194   299 0.82 NZ_ABFH02000002.1_1617 # 1631397 # 1632695 # -1 # ID=4_1617;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+NZ_ABFH02000002.1:1631397-1632695|- -            433 932993at2            -            255   4.5e-27   92.8  31.8   4   5   9.3e-06     0.043   11.0   0.2   198   231   334   369   330   378 0.85 NZ_ABFH02000002.1_1617 # 1631397 # 1632695 # -1 # ID=4_1617;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+NZ_ABFH02000002.1:1631397-1632695|- -            433 932993at2            -            255   4.5e-27   92.8  31.8   5   5   6.6e-05      0.31    8.2   1.9   221   254   387   420   382   421 0.84 NZ_ABFH02000002.1_1617 # 1631397 # 1632695 # -1 # ID=4_1617;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.522
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/932993at2.hmm
+# Target file:     /output/GCF_000171535.2_ASM17153v2_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000171535.2_ASM17153v2_genomic/run_bacteria_odb10/hmmer_output/932993at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/932993at2.hmm /output/GCF_000171535.2_ASM17153v2_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:54:32 2026
+# [ok]

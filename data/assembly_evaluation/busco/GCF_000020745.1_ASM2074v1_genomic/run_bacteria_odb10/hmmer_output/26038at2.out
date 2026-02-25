@@ -1,0 +1,20 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   1   7   8.3e-15   3.8e-11   40.5   0.0    10    48   191   230   185   233 0.89 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   2   7   8.2e-21   3.7e-17   60.3   0.3    57    99   288   332   285   342 0.87 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   3   7     0.013        58    0.4   0.0   105   128   363   387   356   391 0.88 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   4   7   5.6e-30   2.5e-26   90.5   0.0   129   259   408   586   401   662 0.74 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   5   7   1.8e-09     8e-06   23.0   0.2   284   329   691   736   674   739 0.86 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   6   7   5.9e-09   2.7e-05   21.2   0.0   316   389   757   849   751   855 0.74 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+NC_011094.1:2709360-2713247|- -           1296 26038at2             -            439   7.9e-78  260.3   9.5   7   7   3.4e-08   0.00015   18.7   0.0   387   437   876   937   867   939 0.75 NC_011094.1_2578 # 2709360 # 2713247 # -1 # ID=1_2578;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/26038at2.hmm
+# Target file:     /output/GCF_000020745.1_ASM2074v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000020745.1_ASM2074v1_genomic/run_bacteria_odb10/hmmer_output/26038at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/26038at2.hmm /output/GCF_000020745.1_ASM2074v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:48:55 2026
+# [ok]

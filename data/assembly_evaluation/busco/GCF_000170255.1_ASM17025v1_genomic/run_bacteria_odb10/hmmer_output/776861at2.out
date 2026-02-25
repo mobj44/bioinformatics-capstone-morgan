@@ -1,0 +1,24 @@
+#                                                                                         --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                     accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#             ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABAO01000046.1:28630-29913|+   -            428 776861at2            -            618  5.2e-167  554.7   0.0   1   1  1.1e-169  5.8e-167  554.6   0.0     2   401     2   424     1   427 0.93 NZ_ABAO01000046.1_21 # 28630 # 29913 # 1 # ID=68_21;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.539
+NZ_ABAO01000046.1:30990-31673|+   -            228 776861at2            -            618   1.1e-85  286.0   1.3   1   1   2.4e-88   1.2e-85  285.9   1.3   407   612     4   224     1   227 0.97 NZ_ABAO01000046.1_23 # 30990 # 31673 # 1 # ID=68_23;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.557
+NZ_ABAO01000041.1:3556-4815|-     -            420 776861at2            -            618   1.1e-10   38.4   1.6   1   2   5.7e-13     3e-10   36.9   0.9    11   283    11   287     2   326 0.79 NZ_ABAO01000041.1_6 # 3556 # 4815 # -1 # ID=73_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.583
+NZ_ABAO01000041.1:3556-4815|-     -            420 776861at2            -            618   1.1e-10   38.4   1.6   2   2      0.18        96   -1.1   0.0    25    66   373   415   353   418 0.75 NZ_ABAO01000041.1_6 # 3556 # 4815 # -1 # ID=73_6;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.583
+NZ_ABAO01000004.3:69223-69756|-   -            178 776861at2            -            618   0.00017   17.9   0.0   1   1   3.6e-07   0.00019   17.8   0.0   412   439    12    39     1    85 0.81 NZ_ABAO01000004.3_54 # 69223 # 69756 # -1 # ID=110_54;partial=00;start_type=TTG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.536
+NZ_ABAO01000004.3:152-673|-       -            174 776861at2            -            618   0.00039   16.7   0.0   1   1   1.1e-06   0.00056   16.2   0.0   410   439     6    35     1    37 0.88 NZ_ABAO01000004.3_1 # 152 # 673 # -1 # ID=110_1;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.502
+NZ_ABAO01000003.1:45067-45711|+   -            215 776861at2            -            618    0.0036   13.5   0.1   1   1   8.6e-06    0.0045   13.2   0.1   415   454     7    46     1    80 0.68 NZ_ABAO01000003.1_41 # 45067 # 45711 # 1 # ID=111_41;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.546
+NZ_ABAO01000003.1:225440-226165|- -            242 776861at2            -            618    0.0054   13.0   0.0   1   1   1.5e-05    0.0079   12.4   0.0   391   428    11    47     3    50 0.75 NZ_ABAO01000003.1_214 # 225440 # 226165 # -1 # ID=111_214;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.518
+NZ_ABAO01000038.1:39225-39971|+   -            249 776861at2            -            618     0.015   11.5   0.0   1   1   4.2e-05     0.022   10.9   0.0   411   435    30    54    17    60 0.88 NZ_ABAO01000038.1_36 # 39225 # 39971 # 1 # ID=76_36;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.526
+NZ_ABAO01000012.1:58479-59024|+   -            182 776861at2            -            618     0.024   10.8   0.1   1   2    0.0001     0.052    9.7   0.0   415   439     9    33     5    39 0.95 NZ_ABAO01000012.1_50 # 58479 # 59024 # 1 # ID=102_50;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.582
+NZ_ABAO01000012.1:58479-59024|+   -            182 776861at2            -            618     0.024   10.8   0.1   2   2      0.53   2.8e+02   -2.6   0.0   441   454   141   154   129   174 0.62 NZ_ABAO01000012.1_50 # 58479 # 59024 # 1 # ID=102_50;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.582
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/776861at2.hmm
+# Target file:     /output/GCF_000170255.1_ASM17025v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000170255.1_ASM17025v1_genomic/run_bacteria_odb10/hmmer_output/776861at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/776861at2.hmm /output/GCF_000170255.1_ASM17025v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:51:31 2026
+# [ok]

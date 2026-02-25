@@ -1,0 +1,16 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NZ_ABFG01000010.1:49998-50216|+ -             73 2066663at2           -             57   9.6e-28   93.6   0.2   1   1   6.5e-31   1.5e-27   93.0   0.2     1    57     2    70     2    70 0.92 NZ_ABFG01000010.1_40 # 49998 # 50216 # 1 # ID=41_40;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.489
+NZ_ABFG01000012.1:92559-94442|- -            628 2066663at2           -             57     0.026   12.1   0.0   1   2    0.0081        18    3.0   0.0    19    41   146   169   138   171 0.89 NZ_ABFG01000012.1_84 # 92559 # 94442 # -1 # ID=39_84;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.557
+NZ_ABFG01000012.1:92559-94442|- -            628 2066663at2           -             57     0.026   12.1   0.0   2   2    0.0017       3.7    5.2   0.0    19    41   245   268   237   270 0.90 NZ_ABFG01000012.1_84 # 92559 # 94442 # -1 # ID=39_84;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.557
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/2066663at2.hmm
+# Target file:     /output/GCF_000171515.1_ASM17151v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000171515.1_ASM17151v1_genomic/run_bacteria_odb10/hmmer_output/2066663at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/2066663at2.hmm /output/GCF_000171515.1_ASM17151v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:53:58 2026
+# [ok]

@@ -1,0 +1,18 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_004631.1:2810127-2812757|- -            877 91428at2             -            555  1.5e-177  589.3  32.4   1   5  7.4e-128  3.4e-124  413.2   2.5     2   332     4   443     3   455 0.80 NC_004631.1_2721 # 2810127 # 2812757 # -1 # ID=1_2721;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.551
+NC_004631.1:2810127-2812757|- -            877 91428at2             -            555  1.5e-177  589.3  32.4   2   5     2e-09   9.1e-06   22.3   0.1   335   355   490   510   478   521 0.88 NC_004631.1_2721 # 2810127 # 2812757 # -1 # ID=1_2721;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.551
+NC_004631.1:2810127-2812757|- -            877 91428at2             -            555  1.5e-177  589.3  32.4   3   5   5.1e-49   2.4e-45  152.9   5.8   361   506   563   736   556   771 0.72 NC_004631.1_2721 # 2810127 # 2812757 # -1 # ID=1_2721;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.551
+NC_004631.1:2810127-2812757|- -            877 91428at2             -            555  1.5e-177  589.3  32.4   4   5    0.0066        31    0.7   0.2   479   519   730   770   725   794 0.81 NC_004631.1_2721 # 2810127 # 2812757 # -1 # ID=1_2721;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.551
+NC_004631.1:2810127-2812757|- -            877 91428at2             -            555  1.5e-177  589.3  32.4   5   5   0.00056       2.6    4.2   6.1   538   555   839   856   752   856 0.77 NC_004631.1_2721 # 2810127 # 2812757 # -1 # ID=1_2721;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.551
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/91428at2.hmm
+# Target file:     /output/GCF_000007545.1_ASM754v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000007545.1_ASM754v1_genomic/run_bacteria_odb10/hmmer_output/91428at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/91428at2.hmm /output/GCF_000007545.1_ASM754v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:48:28 2026
+# [ok]

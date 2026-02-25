@@ -1,0 +1,23 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_011149.1:4309350-4310639|- -            430 932854at2            -           1620  6.1e-206  684.8   0.5   1   1  9.1e-209  6.8e-206  684.7   0.5     2   419     1   427     1   429 0.98 NC_011149.1_4009 # 4309350 # 4310639 # -1 # ID=1_4009;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.607
+NC_011149.1:2670008-2673895|- -           1296 932854at2            -           1620   9.4e-47  157.2   0.0   1   3   7.7e-08   5.8e-05   18.7   0.0   598   667   178   247   117   268 0.88 NC_011149.1_2482 # 2670008 # 2673895 # -1 # ID=1_2482;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592
+NC_011149.1:2670008-2673895|- -           1296 932854at2            -           1620   9.4e-47  157.2   0.0   2   3   7.9e-29     6e-26   88.2   0.0   732  1151   288   738   276   830 0.76 NC_011149.1_2482 # 2670008 # 2673895 # -1 # ID=1_2482;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592
+NC_011149.1:2670008-2673895|- -           1296 932854at2            -           1620   9.4e-47  157.2   0.0   3   3     3e-16   2.3e-13   46.5   0.0  1422  1596  1086  1266  1036  1273 0.76 NC_011149.1_2482 # 2670008 # 2673895 # -1 # ID=1_2482;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.592
+NC_011149.1:3466882-3468231|+ -            450 932854at2            -           1620   1.4e-05   20.7   0.0   1   1   3.1e-08   2.3e-05   20.0   0.0    79   186    92   205    88   226 0.83 NC_011149.1_3242 # 3466882 # 3468231 # 1 # ID=1_3242;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.550
+NC_011149.1:770022-771188|+   -            389 932854at2            -           1620   3.6e-05   19.3   0.0   1   1   6.1e-08   4.6e-05   19.0   0.0   106   173     8    80     6   126 0.84 NC_011149.1_698 # 770022 # 771188 # 1 # ID=1_698;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.566
+NC_011149.1:76859-80086|+     -           1076 932854at2            -           1620   7.1e-05   18.4   0.2   1   2   8.1e-05     0.061    8.6   0.0   110   187   136   212   110   269 0.92 NC_011149.1_67 # 76859 # 80086 # 1 # ID=1_67;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.594
+NC_011149.1:76859-80086|+     -           1076 932854at2            -           1620   7.1e-05   18.4   0.2   2   2   0.00016      0.12    7.6   0.0    56   202   628   774   597   780 0.83 NC_011149.1_67 # 76859 # 80086 # 1 # ID=1_67;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.594
+NC_011149.1:1227760-1228938|- -            393 932854at2            -           1620       0.1    7.9   2.2   1   2   0.00013     0.095    8.0   0.1     3   185    14   198    12   219 0.86 NC_011149.1_1123 # 1227760 # 1228938 # -1 # ID=1_1123;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.567
+NC_011149.1:1227760-1228938|- -            393 932854at2            -           1620       0.1    7.9   2.2   2   2     0.048        36   -0.6   0.2   367   404   354   392   331   392 0.78 NC_011149.1_1123 # 1227760 # 1228938 # -1 # ID=1_1123;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.567
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm
+# Target file:     /output/GCF_000020885.1_ASM2088v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000020885.1_ASM2088v1_genomic/run_bacteria_odb10/hmmer_output/932854at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/932854at2.hmm /output/GCF_000020885.1_ASM2088v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:49:32 2026
+# [ok]

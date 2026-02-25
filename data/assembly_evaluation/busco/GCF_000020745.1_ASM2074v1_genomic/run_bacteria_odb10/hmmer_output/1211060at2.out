@@ -1,0 +1,17 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_011094.1:3482230-3482850|- -            207 1211060at2           -            164   1.5e-64  214.7   3.7   1   2   1.6e-59   2.4e-56  188.1   2.4     1   136     1   155     1   160 0.92 NC_011094.1_3294 # 3482230 # 3482850 # -1 # ID=1_3294;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.512
+NC_011094.1:3482230-3482850|- -            207 1211060at2           -            164   1.5e-64  214.7   3.7   2   2   3.4e-09   5.1e-06   24.4   0.0   121   164   156   206   152   206 0.89 NC_011094.1_3294 # 3482230 # 3482850 # -1 # ID=1_3294;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.512
+NC_011094.1:3550070-3550471|+ -            134 1211060at2           -            164   9.2e-07   26.8   0.1   1   1     9e-10   1.4e-06   26.2   0.0    76   139     7    70     4    94 0.86 NC_011094.1_3374 # 3550070 # 3550471 # 1 # ID=1_3374;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.565
+NC_011094.1:4281454-4282323|+ -            290 1211060at2           -            164     0.022   12.5   0.0   1   1   2.4e-05     0.037   11.8   0.0    77   130     6    58     1    74 0.87 NC_011094.1_4013 # 4281454 # 4282323 # 1 # ID=1_4013;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.508
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1211060at2.hmm
+# Target file:     /output/GCF_000020745.1_ASM2074v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000020745.1_ASM2074v1_genomic/run_bacteria_odb10/hmmer_output/1211060at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1211060at2.hmm /output/GCF_000020745.1_ASM2074v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:48:49 2026
+# [ok]

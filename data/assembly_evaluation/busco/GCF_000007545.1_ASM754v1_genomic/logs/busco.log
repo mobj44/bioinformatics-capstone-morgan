@@ -1,0 +1,17 @@
+2026-02-25 16:28:31 DEBUG:busco.run_BUSCO	Command line: /usr/local/bin/busco -i /input/GCF_000007545.1_ASM754v1_genomic.fna -l bacteria_odb10 -m genome --out_path /output -o GCF_000007545.1_ASM754v1_genomic
+2026-02-25 16:28:31 INFO:busco.run_BUSCO	***** Start a BUSCO v6.0.0 analysis, current time: 02/25/2026 16:28:31 *****
+2026-02-25 16:28:31 DEBUG:busco.ConfigManager	Getting config file
+2026-02-25 16:28:31 INFO:busco.ConfigManager	Configuring BUSCO with local environment
+2026-02-25 16:28:31 INFO:busco.BuscoConfig	Running genome mode
+2026-02-25 16:28:31 ERROR:busco.run_BUSCO	Error in BUSCO configuration: A run with the name /output/GCF_000007545.1_ASM754v1_genomic already exists...
+	If you are sure you wish to overwrite existing files, please use the -f (force) option
+2026-02-25 16:28:31 INFO:busco.run_BUSCO	Thank you for using BUSCO! Anonymous usage data is gathered to improve the tool. You may opt out with --opt-out-run-stats.
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	Starting new HTTPS connection (1): ipinfo.io:443
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	Starting new HTTPS connection (1): ipinfo.io:443
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	https://ipinfo.io:443 "GET /172.23.0.2/json HTTP/1.1" 200 None
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	https://ipinfo.io:443 "GET /172.23.0.2/json HTTP/1.1" 200 None
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	Starting new HTTPS connection (1): busco-data.ezlab.org:443
+2026-02-25 16:28:31 DEBUG:urllib3.connectionpool	Starting new HTTPS connection (1): busco-data.ezlab.org:443
+2026-02-25 16:28:32 DEBUG:urllib3.connectionpool	https://busco-data.ezlab.org:443 "POST /uploaddb HTTP/1.1" 200 64
+2026-02-25 16:28:32 DEBUG:urllib3.connectionpool	https://busco-data.ezlab.org:443 "POST /uploaddb HTTP/1.1" 200 64
+2026-02-25 16:28:32 DEBUG:busco.run_BUSCO	Data uploaded successfully.

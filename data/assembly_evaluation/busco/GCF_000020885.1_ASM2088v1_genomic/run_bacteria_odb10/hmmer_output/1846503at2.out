@@ -1,0 +1,22 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+NC_011149.1:3839991-3840470|+ -            160 1846503at2           -            110   3.7e-38  127.8   0.2   1   1     3e-39   2.7e-36  121.8   0.2     1   108     3   137     3   139 0.87 NC_011149.1_3585 # 3839991 # 3840470 # 1 # ID=1_3585;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.533
+NC_011149.1:4777037-4778269|+ -            411 1846503at2           -            110   4.1e-06   24.7   0.1   1   3     2e-07   0.00018   19.4   0.0     2    37    66   101    65   138 0.88 NC_011149.1_4436 # 4777037 # 4778269 # 1 # ID=1_4436;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.511
+NC_011149.1:4777037-4778269|+ -            411 1846503at2           -            110   4.1e-06   24.7   0.1   2   3     0.042        38    2.3   0.0     8    31   283   306   276   315 0.87 NC_011149.1_4436 # 4777037 # 4778269 # 1 # ID=1_4436;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.511
+NC_011149.1:4777037-4778269|+ -            411 1846503at2           -            110   4.1e-06   24.7   0.1   3   3       3.1   2.8e+03   -3.8   0.0    47    61   369   383   367   385 0.82 NC_011149.1_4436 # 4777037 # 4778269 # 1 # ID=1_4436;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.511
+NC_011149.1:682126-682776|-   -            217 1846503at2           -            110   0.00072   17.5   0.0   1   2   3.3e-06     0.003   15.5   0.0     2    28     8    34     7    44 0.81 NC_011149.1_623 # 682126 # 682776 # -1 # ID=1_623;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NC_011149.1:682126-682776|-   -            217 1846503at2           -            110   0.00072   17.5   0.0   2   2      0.47   4.2e+02   -1.1   0.0    88   105   172   189   164   193 0.84 NC_011149.1_623 # 682126 # 682776 # -1 # ID=1_623;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.542
+NC_011149.1:3285484-3286917|- -            478 1846503at2           -            110    0.0027   15.6   0.0   1   1   7.3e-06    0.0066   14.4   0.0     3    39   343   379   341   386 0.88 NC_011149.1_3069 # 3285484 # 3286917 # -1 # ID=1_3069;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.577
+NC_011149.1:68702-69670|+     -            323 1846503at2           -            110     0.011   13.7   0.0   1   2   3.1e-05     0.028   12.3   0.0    10    49   133   178   127   194 0.83 NC_011149.1_58 # 68702 # 69670 # 1 # ID=1_58;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.545
+NC_011149.1:68702-69670|+     -            323 1846503at2           -            110     0.011   13.7   0.0   2   2       1.8   1.7e+03   -3.0   0.0    93   107   277   291   267   293 0.74 NC_011149.1_58 # 68702 # 69670 # 1 # ID=1_58;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.545
+#
+# Program:         hmmsearch
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SEARCH
+# Query file:      /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm
+# Target file:     /output/GCF_000020885.1_ASM2088v1_genomic/prodigal_output/predicted_genes/predicted.faa
+# Option settings: hmmsearch --domtblout /output/GCF_000020885.1_ASM2088v1_genomic/run_bacteria_odb10/hmmer_output/1846503at2.out --cpu 1 /busco_wd/busco_downloads/lineages/bacteria_odb10/hmms/1846503at2.hmm /output/GCF_000020885.1_ASM2088v1_genomic/prodigal_output/predicted_genes/predicted.faa 
+# Current dir:     /busco_wd
+# Date:            Wed Feb 25 15:49:28 2026
+# [ok]
