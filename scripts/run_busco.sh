@@ -1,20 +1,18 @@
 #!/bin/bash
 set -e
 
-IMG="ezlabgva/busco:v6.0.0_cv1"
-THREADS=8
+INPUT=/input
+OUTPUT=/output
 
-mkdir -p data/busco/busco_downloads
+for FILE in $INPUT/*.fna; do
+  [ -e "$FILE" ] || { echo "No .fna files found"; exit 1; }
 
-for f in data/genomes_raw/*.fna; do
-  [ -e "$f" ] || { echo "No .fna files found"; exit 1; }
-  name="${f%.fna}"
+  BASE="$(basename "$FILE" .fna)"   
 
-  docker run --rm \
-    -v "$PWD:/work" -w /work \
-    -v "$PWD/busco_downloads:/busco_downloads" \
-    -e BUSCO_DOWNLOADS_DIR=data/busco/busco_downloads \
-    "$IMG" \
-    busco -i "$f" -f -l bacteria_odb10 -m genome -o data/busco/ -c "$THREADS"
+  busco \
+  -i "$FILE" \
+  -l bacteria_odb10 \
+  -m genome \
+  --out_path "$OUTPUT" \
+  -o "$BASE"
 done
-
