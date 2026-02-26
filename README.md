@@ -31,16 +31,21 @@ Lineage: `-l bacteria_odb10`
 
 ### How to Use
 
-1. Clone git repo.
-1. Navigate to project root. Everything will be run from here.
-1. Ensure Docker is installed and running.
-1. Run `./scripts/download_genomes.sh`
-1. Run `docker compose up -d`
+1. Clone git repo.  
+1. Navigate to project root. Everything will be run from here.  
+1. Ensure Docker is installed and running.  
+1. Run `./scripts/download_genomes.sh`  
+1. Run `docker compose up -d`  
+1. Run `./scripts/assembly_evaluation.py`    
+1. View analysis `csv` files located in `analysis/assembly_evaluation/`  
 
 ## Naming Conventions and Directory Structure
 
 ```
 ├── analysis
+│   ├── assembly_evaluation
+│   │   ├── busco_summary.csv
+│   │   └── quast_summary.csv
 ├── data
 │   ├── accession_files
 │   ├── assemblies
