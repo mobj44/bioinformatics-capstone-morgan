@@ -61,3 +61,41 @@ Lineage: `-l bacteria_odb10`
     ├── run_busco.sh
     └── run_quast.sh
 ```
+## BUSCO Analysis
+Table: Genomes with a BUSCO above 95%
+
+|Accession Number | Complete Percentage|
+|:----------------|-------------------:|
+|GCF_000171415.1  |                98.4|
+|GCF_000171535.2  |               100.0|
+|GCF_000007545.1  |               100.0|
+|GCF_000020925.1  |                98.4|
+|GCF_000170215.1  |                98.4|
+|GCF_000020745.1  |                98.4|
+|GCF_000020885.1  |                99.2|
+|GCF_000022165.1  |                98.4|
+
+Table: Genomes with a BUSCO below 95% that will be removed from use going forward. 
+
+|Accession Number | Complete Percentage|
+|:----------------|-------------------:|
+|GCF_000170255.1  |                69.4|
+|GCF_000171255.1  |                80.6|
+|GCF_000171275.1  |                67.7|
+|GCF_000171315.1  |                67.7|
+|GCF_000171515.1  |                93.5|
+
+## Annotation with BAKTA
+1. To get the Docker image run:
+`docker pull quay.io/biocontainers/bakta:1.8.2--pyhdfd78af_0`
+
+1. Download Bakta DB
+```
+docker run --rm \
+  --platform linux/amd64 \
+  -v "$PWD/data/databases/bakta:/db" \
+  quay.io/biocontainers/bakta:1.8.2--pyhdfd78af_0 \
+  bakta_db download --output /db --type full
+```
+
+1. Run: `./scripts/annotate.sh`

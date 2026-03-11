@@ -20,3 +20,15 @@ services:
       - ./data/assembly_evaluation/quast:/output
       - ./scripts/run_quast.sh:/docker-entrypoint.sh
     entrypoint: "/docker-entrypoint.sh"
+
+  bakta:
+    image: quay.io/biocontainers/bakta:1.8.2--pyhdfd78af_0
+    container_name: bakta
+    platform: linux/amd64
+    volumes:
+      - ./data/genomes_raw:/input:ro
+      - ./analysis/assembly_evaluation/:/selection/:ro
+      - ./data/databases/bakta:/db:ro
+      - ./data/genome_annotation/bakta:/output
+      - ./scripts/annotate.sh:/docker-entrypoint.sh
+    entrypoint: ["/bin/bash", "/docker-entrypoint.sh"]
