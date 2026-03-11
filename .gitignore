@@ -1,3 +1,6 @@
 .DS_Store
 *.gz
 data/illumina_data_reads/DNA Sequencing Stats.xlsx
+.Rproj.user
+data/databases
+.RHistory

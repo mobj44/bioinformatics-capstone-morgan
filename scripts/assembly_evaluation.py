@@ -120,9 +120,6 @@ def make_quast_csv(path_for_csv, quast_dict):
             writer.writerow(row)
 
 def main():
-    # traverse directory structure
-    # traverse and get all files with same base name and concatonate results into a tsv file
-
     # project root path
     project_root = Path(".").absolute()
 
