@@ -4,3 +4,4 @@ data/illumina_data_reads/DNA Sequencing Stats.xlsx
 .Rproj.user
 data/databases
 .RHistory
+.data/core_pan/panaroo/gene_data.csv
