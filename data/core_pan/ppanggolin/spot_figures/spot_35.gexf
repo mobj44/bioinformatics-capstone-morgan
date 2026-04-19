@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_12810" label="AJBGEP_12810">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="fadL" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12815" label="AJBGEP_12815">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="mlaA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12820" label="AJBGEP_12820">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="focA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02910" label="AJBGEP_02910">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_02545" label="GEGEGB_02545">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_54" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_02540" label="GEGEGB_02540">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_54" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_13320" label="HFCAGB_13320">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_54" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_13325" label="HFCAGB_13325">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="pgtE" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12835" label="AJBGEP_12835">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12840" label="AJBGEP_12840">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pgtA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_12810" target="AJBGEP_12815" id="0" weight="0.5" />
+      <edge source="AJBGEP_12815" target="AJBGEP_12820" id="1" weight="1.0" />
+      <edge source="AJBGEP_12820" target="AJBGEP_02910" id="2" weight="1.0" />
+      <edge source="AJBGEP_02910" target="GEGEGB_02545" id="3" weight="1.0" />
+      <edge source="GEGEGB_02545" target="GEGEGB_02540" id="4" weight="1.0" />
+      <edge source="GEGEGB_02540" target="HFCAGB_13320" id="5" weight="1.0" />
+      <edge source="HFCAGB_13320" target="HFCAGB_13325" id="6" weight="1.0" />
+      <edge source="HFCAGB_13320" target="HFCAGB_13320" id="7" weight="0.5" />
+      <edge source="HFCAGB_13325" target="AJBGEP_12835" id="8" weight="1.0" />
+      <edge source="AJBGEP_12835" target="AJBGEP_12840" id="9" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>

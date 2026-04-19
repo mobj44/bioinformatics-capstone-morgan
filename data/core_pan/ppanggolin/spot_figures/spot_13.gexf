@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_03685" label="AJBGEP_03685">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="pxpB" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_04040" label="HFCAGB_04040">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03695" label="AJBGEP_03695">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="pxpA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03700" label="AJBGEP_03700">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="xerD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03705" label="AJBGEP_03705">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03710" label="AJBGEP_03710">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03715" label="AJBGEP_03715">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="glf" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03720" label="AJBGEP_03720">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="wcaE" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03725" label="AJBGEP_03725">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="rfaB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03730" label="AJBGEP_03730">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="tagG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03735" label="AJBGEP_03735">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="tagH" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_06085" label="ODDLKH_06085">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="7" />
+          <attvalue for="2" value="wcaE" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_04325" label="LNHIMF_04325">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03750" label="AJBGEP_03750">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03755" label="AJBGEP_03755">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_3" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03760" label="AJBGEP_03760">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="nei" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03765" label="AJBGEP_03765">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="abrB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03770" label="AJBGEP_03770">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="gltA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_03685" target="HFCAGB_04040" id="0" weight="0.5" />
+      <edge source="HFCAGB_04040" target="AJBGEP_03695" id="1" weight="1.0" />
+      <edge source="AJBGEP_03695" target="AJBGEP_03700" id="2" weight="1.0" />
+      <edge source="AJBGEP_03700" target="AJBGEP_03705" id="3" weight="1.0" />
+      <edge source="AJBGEP_03705" target="AJBGEP_03710" id="4" weight="1.0" />
+      <edge source="AJBGEP_03710" target="AJBGEP_03715" id="5" weight="1.0" />
+      <edge source="AJBGEP_03715" target="AJBGEP_03720" id="6" weight="1.0" />
+      <edge source="AJBGEP_03720" target="AJBGEP_03725" id="7" weight="1.0" />
+      <edge source="AJBGEP_03725" target="AJBGEP_03730" id="8" weight="1.0" />
+      <edge source="AJBGEP_03730" target="AJBGEP_03735" id="9" weight="1.0" />
+      <edge source="AJBGEP_03735" target="ODDLKH_06085" id="10" weight="1.0" />
+      <edge source="ODDLKH_06085" target="LNHIMF_04325" id="11" weight="1.0" />
+      <edge source="ODDLKH_06085" target="ODDLKH_06085" id="12" weight="0.16666666666666666" />
+      <edge source="LNHIMF_04325" target="AJBGEP_03750" id="13" weight="1.0" />
+      <edge source="AJBGEP_03750" target="AJBGEP_03755" id="14" weight="1.0" />
+      <edge source="AJBGEP_03750" target="AJBGEP_03750" id="15" weight="0.16666666666666666" />
+      <edge source="AJBGEP_03755" target="AJBGEP_03760" id="16" weight="1.0" />
+      <edge source="AJBGEP_03760" target="AJBGEP_03765" id="17" weight="1.0" />
+      <edge source="AJBGEP_03765" target="AJBGEP_03770" id="18" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>

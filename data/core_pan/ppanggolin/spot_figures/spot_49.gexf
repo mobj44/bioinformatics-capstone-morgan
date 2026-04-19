@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_00830" label="AJBGEP_00830">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_03205" label="ODDLKH_03205">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00845" label="AJBGEP_00845">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="acnB" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_00865" label="BEJGEH_00865">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_00870" label="BEJGEH_00870">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_00875" label="BEJGEH_00875">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_00880" label="BEJGEH_00880">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_00885" label="BEJGEH_00885">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03785" label="PKJKAM_03785">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_00845" label="HFCAGB_00845">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00855" label="AJBGEP_00855">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yacL" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00860" label="AJBGEP_00860">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="kdgT1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_00830" target="ODDLKH_03205" id="0" weight="1.0" />
+      <edge source="ODDLKH_03205" target="AJBGEP_00845" id="1" weight="1.0" />
+      <edge source="AJBGEP_00845" target="BEJGEH_00865" id="2" weight="1.0" />
+      <edge source="BEJGEH_00865" target="BEJGEH_00870" id="3" weight="1.0" />
+      <edge source="BEJGEH_00870" target="BEJGEH_00875" id="4" weight="1.0" />
+      <edge source="BEJGEH_00875" target="BEJGEH_00880" id="5" weight="1.0" />
+      <edge source="BEJGEH_00880" target="BEJGEH_00885" id="6" weight="1.0" />
+      <edge source="BEJGEH_00885" target="PKJKAM_03785" id="7" weight="1.0" />
+      <edge source="PKJKAM_03785" target="HFCAGB_00845" id="8" weight="1.0" />
+      <edge source="HFCAGB_00845" target="AJBGEP_00855" id="9" weight="1.0" />
+      <edge source="AJBGEP_00855" target="AJBGEP_00860" id="10" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_10805" label="AJBGEP_10805">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mtfA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10850" label="AJBGEP_10850">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="amn" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10855" label="AJBGEP_10855">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_10065" label="BEJGEH_10065">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10865" label="AJBGEP_10865">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="norM" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10435" label="LNHIMF_10435">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10440" label="LNHIMF_10440">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10445" label="LNHIMF_10445">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10450" label="LNHIMF_10450">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="lysR" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06835" label="AJBGEP_06835">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="gapA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10460" label="LNHIMF_10460">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="eamA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10465" label="LNHIMF_10465">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10470" label="LNHIMF_10470">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10475" label="LNHIMF_10475">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_67" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11380" label="HFCAGB_11380">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="ldtA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10880" label="AJBGEP_10880">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="cobT" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10845" label="AJBGEP_10845">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_10010" label="IKCLMC_10010">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_10005" label="IKCLMC_10005">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="arsB" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_10000" label="IKCLMC_10000">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="arsA" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_09995" label="IKCLMC_09995">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="arsD" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_09990" label="IKCLMC_09990">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_09985" label="IKCLMC_09985">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_66" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_10805" target="AJBGEP_10850" id="0" weight="0.5" />
+      <edge source="AJBGEP_10850" target="AJBGEP_10855" id="1" weight="1.0" />
+      <edge source="AJBGEP_10850" target="AJBGEP_10845" id="2" weight="0.5" />
+      <edge source="AJBGEP_10855" target="BEJGEH_10065" id="3" weight="1.0" />
+      <edge source="BEJGEH_10065" target="AJBGEP_10865" id="4" weight="1.0" />
+      <edge source="AJBGEP_10865" target="LNHIMF_10435" id="5" weight="0.5" />
+      <edge source="AJBGEP_10865" target="IKCLMC_10010" id="6" weight="0.5" />
+      <edge source="LNHIMF_10435" target="LNHIMF_10440" id="7" weight="1.0" />
+      <edge source="LNHIMF_10435" target="IKCLMC_09985" id="8" weight="0.5" />
+      <edge source="LNHIMF_10440" target="LNHIMF_10445" id="9" weight="1.0" />
+      <edge source="LNHIMF_10445" target="LNHIMF_10450" id="10" weight="1.0" />
+      <edge source="LNHIMF_10450" target="AJBGEP_06835" id="11" weight="1.0" />
+      <edge source="AJBGEP_06835" target="LNHIMF_10460" id="12" weight="1.0" />
+      <edge source="LNHIMF_10460" target="LNHIMF_10465" id="13" weight="1.0" />
+      <edge source="LNHIMF_10465" target="LNHIMF_10470" id="14" weight="1.0" />
+      <edge source="LNHIMF_10470" target="LNHIMF_10475" id="15" weight="1.0" />
+      <edge source="LNHIMF_10475" target="HFCAGB_11380" id="16" weight="1.0" />
+      <edge source="HFCAGB_11380" target="AJBGEP_10880" id="17" weight="1.0" />
+      <edge source="IKCLMC_10010" target="IKCLMC_10005" id="18" weight="0.5" />
+      <edge source="IKCLMC_10005" target="IKCLMC_10005" id="19" weight="0.5" />
+      <edge source="IKCLMC_10005" target="IKCLMC_10000" id="20" weight="0.5" />
+      <edge source="IKCLMC_10000" target="IKCLMC_09995" id="21" weight="0.5" />
+      <edge source="IKCLMC_09995" target="IKCLMC_09990" id="22" weight="0.5" />
+      <edge source="IKCLMC_09990" target="IKCLMC_09985" id="23" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,5 @@
+Receptor candidates: 736
+Tier 1 candidates: 87
+Tier 2 candidates: 23
+Prioritized candidates: 110
+Final candidates: 90

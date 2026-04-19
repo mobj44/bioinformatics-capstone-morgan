@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="BEJGEH_15225" label="BEJGEH_15225">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16015" label="AJBGEP_16015">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yfdX" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16020" label="AJBGEP_16020">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lomR" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15390" label="LNHIMF_15390">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16030" label="AJBGEP_16030">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="vapC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16035" label="AJBGEP_16035">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="vapB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16040" label="AJBGEP_16040">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16045" label="AJBGEP_16045">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_15520" label="GEGEGB_15520">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_15525" label="GEGEGB_15525">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_15530" label="GEGEGB_15530">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_15535" label="GEGEGB_15535">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_15540" label="GEGEGB_15540">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="xerD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16055" label="AJBGEP_16055">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="actS" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16065" label="AJBGEP_16065">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="idi" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="BEJGEH_15225" target="AJBGEP_16015" id="0" weight="1.0" />
+      <edge source="AJBGEP_16015" target="AJBGEP_16020" id="1" weight="1.0" />
+      <edge source="AJBGEP_16020" target="LNHIMF_15390" id="2" weight="1.0" />
+      <edge source="LNHIMF_15390" target="AJBGEP_16030" id="3" weight="1.0" />
+      <edge source="AJBGEP_16030" target="AJBGEP_16035" id="4" weight="1.0" />
+      <edge source="AJBGEP_16035" target="AJBGEP_16040" id="5" weight="1.0" />
+      <edge source="AJBGEP_16040" target="AJBGEP_16045" id="6" weight="1.0" />
+      <edge source="AJBGEP_16045" target="GEGEGB_15520" id="7" weight="1.0" />
+      <edge source="GEGEGB_15520" target="GEGEGB_15525" id="8" weight="1.0" />
+      <edge source="GEGEGB_15525" target="GEGEGB_15530" id="9" weight="1.0" />
+      <edge source="GEGEGB_15530" target="GEGEGB_15535" id="10" weight="1.0" />
+      <edge source="GEGEGB_15535" target="GEGEGB_15540" id="11" weight="1.0" />
+      <edge source="GEGEGB_15540" target="AJBGEP_16055" id="12" weight="1.0" />
+      <edge source="AJBGEP_16055" target="AJBGEP_16065" id="13" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

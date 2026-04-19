@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_20050" label="AJBGEP_20050">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="5" />
+          <attvalue for="2" value="ibpA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20055" label="AJBGEP_20055">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="yceK" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20060" label="AJBGEP_20060">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12080" label="AJBGEP_12080">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12085" label="AJBGEP_12085">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="dsbE" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12090" label="AJBGEP_12090">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmF" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_12560" label="HFCAGB_12560">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmE" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12100" label="AJBGEP_12100">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12105" label="AJBGEP_12105">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12110" label="AJBGEP_12110">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20100" label="AJBGEP_20100">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_24" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="ccmA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20105" label="AJBGEP_20105">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="mauG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20110" label="AJBGEP_20110">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="9" />
+          <attvalue for="2" value="torD" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_20385" label="HFCAGB_20385">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="4" />
+          <attvalue for="2" value="torA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_20050" target="AJBGEP_20055" id="0" weight="0.5555555555555556" />
+      <edge source="AJBGEP_20055" target="AJBGEP_20060" id="1" weight="1.0" />
+      <edge source="AJBGEP_20060" target="AJBGEP_12080" id="2" weight="1.0" />
+      <edge source="AJBGEP_12080" target="AJBGEP_12085" id="3" weight="1.0" />
+      <edge source="AJBGEP_12085" target="AJBGEP_12090" id="4" weight="1.0" />
+      <edge source="AJBGEP_12090" target="HFCAGB_12560" id="5" weight="1.0" />
+      <edge source="HFCAGB_12560" target="AJBGEP_12100" id="6" weight="1.0" />
+      <edge source="AJBGEP_12100" target="AJBGEP_12105" id="7" weight="1.0" />
+      <edge source="AJBGEP_12105" target="AJBGEP_12110" id="8" weight="1.0" />
+      <edge source="AJBGEP_12110" target="AJBGEP_20100" id="9" weight="1.0" />
+      <edge source="AJBGEP_20100" target="AJBGEP_20105" id="10" weight="1.0" />
+      <edge source="AJBGEP_20105" target="AJBGEP_20110" id="11" weight="1.0" />
+      <edge source="AJBGEP_20110" target="HFCAGB_20385" id="12" weight="0.4444444444444444" />
+    </edges>
+  </graph>
+</gexf>

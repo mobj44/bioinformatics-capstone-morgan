@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_11970" label="AJBGEP_11970">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="yejK" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_11975" label="AJBGEP_11975">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="yejL" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_11980" label="AJBGEP_11980">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="yejM" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13670" label="ODDLKH_13670">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13675" label="ODDLKH_13675">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="oafA" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13680" label="ODDLKH_13680">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12005" label="AJBGEP_12005">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_14685" label="HFCAGB_14685">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13695" label="ODDLKH_13695">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13700" label="ODDLKH_13700">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13705" label="ODDLKH_13705">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13710" label="ODDLKH_13710">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12035" label="AJBGEP_12035">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11045" label="HFCAGB_11045">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_13725" label="ODDLKH_13725">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_23" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_15165" label="PKJKAM_15165">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="sspH2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12055" label="AJBGEP_12055">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_11970" target="AJBGEP_11975" id="0" weight="1.0" />
+      <edge source="AJBGEP_11975" target="AJBGEP_11980" id="1" weight="1.0" />
+      <edge source="AJBGEP_11980" target="ODDLKH_13670" id="2" weight="1.0" />
+      <edge source="ODDLKH_13670" target="ODDLKH_13675" id="3" weight="1.0" />
+      <edge source="ODDLKH_13675" target="ODDLKH_13680" id="4" weight="1.0" />
+      <edge source="ODDLKH_13680" target="AJBGEP_12005" id="5" weight="1.0" />
+      <edge source="AJBGEP_12005" target="HFCAGB_14685" id="6" weight="1.0" />
+      <edge source="HFCAGB_14685" target="ODDLKH_13695" id="7" weight="1.0" />
+      <edge source="ODDLKH_13695" target="ODDLKH_13700" id="8" weight="1.0" />
+      <edge source="ODDLKH_13700" target="ODDLKH_13705" id="9" weight="1.0" />
+      <edge source="ODDLKH_13705" target="ODDLKH_13710" id="10" weight="1.0" />
+      <edge source="ODDLKH_13710" target="AJBGEP_12035" id="11" weight="1.0" />
+      <edge source="AJBGEP_12035" target="HFCAGB_11045" id="12" weight="1.0" />
+      <edge source="HFCAGB_11045" target="ODDLKH_13725" id="13" weight="1.0" />
+      <edge source="ODDLKH_13725" target="PKJKAM_15165" id="14" weight="1.0" />
+      <edge source="PKJKAM_15165" target="AJBGEP_12055" id="15" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

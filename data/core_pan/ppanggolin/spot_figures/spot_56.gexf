@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_18895" label="AJBGEP_18895">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uspB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_18890" label="AJBGEP_18890">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pitA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_18885" label="AJBGEP_18885">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yhiN" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20770" label="GEGEGB_20770">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20775" label="GEGEGB_20775">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20780" label="GEGEGB_20780">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20785" label="GEGEGB_20785">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20790" label="GEGEGB_20790">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_20795" label="GEGEGB_20795">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_18880" label="AJBGEP_18880">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="emrA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_18875" label="AJBGEP_18875">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rbbA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_18895" target="AJBGEP_18890" id="0" weight="1.0" />
+      <edge source="AJBGEP_18890" target="AJBGEP_18885" id="1" weight="1.0" />
+      <edge source="AJBGEP_18885" target="GEGEGB_20770" id="2" weight="1.0" />
+      <edge source="GEGEGB_20770" target="GEGEGB_20775" id="3" weight="1.0" />
+      <edge source="GEGEGB_20775" target="GEGEGB_20780" id="4" weight="1.0" />
+      <edge source="GEGEGB_20780" target="GEGEGB_20785" id="5" weight="1.0" />
+      <edge source="GEGEGB_20785" target="GEGEGB_20790" id="6" weight="1.0" />
+      <edge source="GEGEGB_20790" target="GEGEGB_20795" id="7" weight="1.0" />
+      <edge source="GEGEGB_20795" target="AJBGEP_18880" id="8" weight="1.0" />
+      <edge source="AJBGEP_18880" target="AJBGEP_18875" id="9" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

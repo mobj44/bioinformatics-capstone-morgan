@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_00965" label="AJBGEP_00965">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="panB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00960" label="AJBGEP_00960">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="panC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00955" label="AJBGEP_00955">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="panD" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03640" label="PKJKAM_03640">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03645" label="PKJKAM_03645">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="ecpD" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03650" label="PKJKAM_03650">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03655" label="PKJKAM_03655">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03660" label="PKJKAM_03660">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03665" label="PKJKAM_03665">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_03670" label="PKJKAM_03670">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_85" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="stkG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00950" label="AJBGEP_00950">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="cDA1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_00945" label="AJBGEP_00945">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="manX" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_00965" target="AJBGEP_00960" id="0" weight="1.0" />
+      <edge source="AJBGEP_00960" target="AJBGEP_00955" id="1" weight="1.0" />
+      <edge source="AJBGEP_00955" target="PKJKAM_03640" id="2" weight="1.0" />
+      <edge source="PKJKAM_03640" target="PKJKAM_03645" id="3" weight="1.0" />
+      <edge source="PKJKAM_03645" target="PKJKAM_03650" id="4" weight="1.0" />
+      <edge source="PKJKAM_03650" target="PKJKAM_03655" id="5" weight="1.0" />
+      <edge source="PKJKAM_03655" target="PKJKAM_03660" id="6" weight="1.0" />
+      <edge source="PKJKAM_03660" target="PKJKAM_03665" id="7" weight="1.0" />
+      <edge source="PKJKAM_03665" target="PKJKAM_03670" id="8" weight="1.0" />
+      <edge source="PKJKAM_03670" target="AJBGEP_00950" id="9" weight="1.0" />
+      <edge source="AJBGEP_00950" target="AJBGEP_00945" id="10" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

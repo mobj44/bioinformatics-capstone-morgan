@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="PKJKAM_09720" label="PKJKAM_09720">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="hcp" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15745" label="BEJGEH_15745">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="cDA1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_16820" label="HFCAGB_16820">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="nit2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15905" label="LNHIMF_15905">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tetR" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15910" label="LNHIMF_15910">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uidA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15915" label="LNHIMF_15915">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uidB" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15920" label="LNHIMF_15920">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uidC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16555" label="AJBGEP_16555">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uhpC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16560" label="AJBGEP_16560">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="uxuA" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="PKJKAM_09720" target="BEJGEH_15745" id="0" weight="1.0" />
+      <edge source="BEJGEH_15745" target="HFCAGB_16820" id="1" weight="1.0" />
+      <edge source="HFCAGB_16820" target="LNHIMF_15905" id="2" weight="1.0" />
+      <edge source="LNHIMF_15905" target="LNHIMF_15910" id="3" weight="1.0" />
+      <edge source="LNHIMF_15910" target="LNHIMF_15915" id="4" weight="1.0" />
+      <edge source="LNHIMF_15915" target="LNHIMF_15920" id="5" weight="1.0" />
+      <edge source="LNHIMF_15920" target="AJBGEP_16555" id="6" weight="1.0" />
+      <edge source="AJBGEP_16555" target="AJBGEP_16560" id="7" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

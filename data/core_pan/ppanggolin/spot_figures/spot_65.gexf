@@ -1,0 +1,487 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_22260" label="AJBGEP_22260">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yjbJ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_22265" label="AJBGEP_22265">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="zur" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_22420" label="HFCAGB_22420">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21360" label="LNHIMF_21360">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21365" label="LNHIMF_21365">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21370" label="LNHIMF_21370">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="prtN" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21375" label="LNHIMF_21375">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_02935" label="HFCAGB_02935">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21385" label="LNHIMF_21385">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21390" label="LNHIMF_21390">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10760" label="AJBGEP_10760">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_19" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21400" label="LNHIMF_21400">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_19" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11120" label="HFCAGB_11120">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_19" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21410" label="LNHIMF_21410">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="bssS" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11105" label="HFCAGB_11105">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21420" label="LNHIMF_21420">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lexA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21425" label="LNHIMF_21425">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21430" label="LNHIMF_21430">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ymfL" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21435" label="LNHIMF_21435">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ymfM" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21440" label="LNHIMF_21440">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21445" label="LNHIMF_21445">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21450" label="LNHIMF_21450">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lexA" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11050" label="HFCAGB_11050">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rusA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21460" label="LNHIMF_21460">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_12035" label="AJBGEP_12035">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21470" label="LNHIMF_21470">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="quuQ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06360" label="AJBGEP_06360">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21485" label="LNHIMF_21485">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21490" label="LNHIMF_21490">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21495" label="LNHIMF_21495">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gH19" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21500" label="LNHIMF_21500">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_01280" label="PKJKAM_01280">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21510" label="LNHIMF_21510">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21515" label="LNHIMF_21515">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21520" label="LNHIMF_21520">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21525" label="LNHIMF_21525">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21530" label="LNHIMF_21530">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21535" label="LNHIMF_21535">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21540" label="LNHIMF_21540">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21545" label="LNHIMF_21545">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21550" label="LNHIMF_21550">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10595" label="AJBGEP_10595">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_10845" label="LNHIMF_10845">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10585" label="AJBGEP_10585">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10580" label="AJBGEP_10580">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10575" label="AJBGEP_10575">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_10925" label="HFCAGB_10925">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21585" label="LNHIMF_21585">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21590" label="LNHIMF_21590">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10560" label="AJBGEP_10560">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21600" label="LNHIMF_21600">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10550" label="AJBGEP_10550">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10545" label="AJBGEP_10545">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21615" label="LNHIMF_21615">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10530" label="AJBGEP_10530">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_16" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21625" label="LNHIMF_21625">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21630" label="LNHIMF_21630">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_07010" label="HFCAGB_07010">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="sopE" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21640" label="LNHIMF_21640">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21645" label="LNHIMF_21645">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_21650" label="LNHIMF_21650">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_22275" label="AJBGEP_22275">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="dusA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_22280" label="AJBGEP_22280">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pspG" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_22260" target="AJBGEP_22265" id="0" weight="1.0" />
+      <edge source="AJBGEP_22265" target="HFCAGB_22420" id="1" weight="1.0" />
+      <edge source="HFCAGB_22420" target="LNHIMF_21360" id="2" weight="1.0" />
+      <edge source="LNHIMF_21360" target="LNHIMF_21365" id="3" weight="1.0" />
+      <edge source="LNHIMF_21365" target="LNHIMF_21370" id="4" weight="1.0" />
+      <edge source="LNHIMF_21370" target="LNHIMF_21375" id="5" weight="1.0" />
+      <edge source="LNHIMF_21375" target="HFCAGB_02935" id="6" weight="1.0" />
+      <edge source="HFCAGB_02935" target="LNHIMF_21385" id="7" weight="1.0" />
+      <edge source="LNHIMF_21385" target="LNHIMF_21390" id="8" weight="1.0" />
+      <edge source="LNHIMF_21390" target="AJBGEP_10760" id="9" weight="1.0" />
+      <edge source="AJBGEP_10760" target="LNHIMF_21400" id="10" weight="1.0" />
+      <edge source="LNHIMF_21400" target="HFCAGB_11120" id="11" weight="1.0" />
+      <edge source="HFCAGB_11120" target="LNHIMF_21410" id="12" weight="1.0" />
+      <edge source="LNHIMF_21410" target="HFCAGB_11105" id="13" weight="1.0" />
+      <edge source="HFCAGB_11105" target="LNHIMF_21420" id="14" weight="1.0" />
+      <edge source="LNHIMF_21420" target="LNHIMF_21425" id="15" weight="1.0" />
+      <edge source="LNHIMF_21425" target="LNHIMF_21430" id="16" weight="1.0" />
+      <edge source="LNHIMF_21430" target="LNHIMF_21435" id="17" weight="1.0" />
+      <edge source="LNHIMF_21435" target="LNHIMF_21440" id="18" weight="1.0" />
+      <edge source="LNHIMF_21440" target="LNHIMF_21445" id="19" weight="1.0" />
+      <edge source="LNHIMF_21445" target="LNHIMF_21450" id="20" weight="1.0" />
+      <edge source="LNHIMF_21450" target="HFCAGB_11050" id="21" weight="1.0" />
+      <edge source="HFCAGB_11050" target="LNHIMF_21460" id="22" weight="1.0" />
+      <edge source="LNHIMF_21460" target="AJBGEP_12035" id="23" weight="1.0" />
+      <edge source="AJBGEP_12035" target="LNHIMF_21470" id="24" weight="1.0" />
+      <edge source="LNHIMF_21470" target="AJBGEP_06360" id="25" weight="1.0" />
+      <edge source="AJBGEP_06360" target="LNHIMF_21485" id="26" weight="1.0" />
+      <edge source="LNHIMF_21485" target="LNHIMF_21490" id="27" weight="1.0" />
+      <edge source="LNHIMF_21490" target="LNHIMF_21495" id="28" weight="1.0" />
+      <edge source="LNHIMF_21495" target="LNHIMF_21500" id="29" weight="1.0" />
+      <edge source="LNHIMF_21500" target="PKJKAM_01280" id="30" weight="1.0" />
+      <edge source="PKJKAM_01280" target="LNHIMF_21510" id="31" weight="1.0" />
+      <edge source="LNHIMF_21510" target="LNHIMF_21515" id="32" weight="1.0" />
+      <edge source="LNHIMF_21515" target="LNHIMF_21520" id="33" weight="1.0" />
+      <edge source="LNHIMF_21520" target="LNHIMF_21525" id="34" weight="1.0" />
+      <edge source="LNHIMF_21525" target="LNHIMF_21530" id="35" weight="1.0" />
+      <edge source="LNHIMF_21530" target="LNHIMF_21535" id="36" weight="1.0" />
+      <edge source="LNHIMF_21535" target="LNHIMF_21540" id="37" weight="1.0" />
+      <edge source="LNHIMF_21540" target="LNHIMF_21545" id="38" weight="1.0" />
+      <edge source="LNHIMF_21545" target="LNHIMF_21550" id="39" weight="1.0" />
+      <edge source="LNHIMF_21550" target="AJBGEP_10595" id="40" weight="1.0" />
+      <edge source="AJBGEP_10595" target="LNHIMF_10845" id="41" weight="1.0" />
+      <edge source="LNHIMF_10845" target="AJBGEP_10585" id="42" weight="1.0" />
+      <edge source="AJBGEP_10585" target="AJBGEP_10580" id="43" weight="1.0" />
+      <edge source="AJBGEP_10580" target="AJBGEP_10575" id="44" weight="1.0" />
+      <edge source="AJBGEP_10575" target="HFCAGB_10925" id="45" weight="1.0" />
+      <edge source="HFCAGB_10925" target="LNHIMF_21585" id="46" weight="1.0" />
+      <edge source="LNHIMF_21585" target="LNHIMF_21590" id="47" weight="1.0" />
+      <edge source="LNHIMF_21590" target="AJBGEP_10560" id="48" weight="1.0" />
+      <edge source="AJBGEP_10560" target="LNHIMF_21600" id="49" weight="1.0" />
+      <edge source="LNHIMF_21600" target="AJBGEP_10550" id="50" weight="1.0" />
+      <edge source="AJBGEP_10550" target="AJBGEP_10545" id="51" weight="1.0" />
+      <edge source="AJBGEP_10545" target="LNHIMF_21615" id="52" weight="1.0" />
+      <edge source="LNHIMF_21615" target="AJBGEP_10530" id="53" weight="1.0" />
+      <edge source="AJBGEP_10530" target="LNHIMF_21625" id="54" weight="1.0" />
+      <edge source="LNHIMF_21625" target="LNHIMF_21630" id="55" weight="1.0" />
+      <edge source="LNHIMF_21630" target="HFCAGB_07010" id="56" weight="1.0" />
+      <edge source="HFCAGB_07010" target="LNHIMF_21640" id="57" weight="1.0" />
+      <edge source="LNHIMF_21640" target="LNHIMF_21645" id="58" weight="1.0" />
+      <edge source="LNHIMF_21645" target="LNHIMF_21650" id="59" weight="1.0" />
+      <edge source="LNHIMF_21650" target="AJBGEP_22275" id="60" weight="1.0" />
+      <edge source="AJBGEP_22275" target="AJBGEP_22280" id="61" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

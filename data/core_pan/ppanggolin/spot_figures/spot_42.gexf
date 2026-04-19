@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_08550" label="AJBGEP_08550">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="pnbA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_08545" label="AJBGEP_08545">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="mdoD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_08540" label="AJBGEP_08540">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="yceI" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_02110" label="ONMMKP_02110">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_65" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="fadR" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_02115" label="ONMMKP_02115">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_65" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="idnD" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_02120" label="ONMMKP_02120">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_65" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="uhpC" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_02125" label="ONMMKP_02125">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_65" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="fabG" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_02130" label="ONMMKP_02130">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_65" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="rspA" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_08335" label="HFCAGB_08335">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="aac(6')" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_08525" label="AJBGEP_08525">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="glpR" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_08550" target="AJBGEP_08545" id="0" weight="1.0" />
+      <edge source="AJBGEP_08545" target="AJBGEP_08540" id="1" weight="1.0" />
+      <edge source="AJBGEP_08540" target="ONMMKP_02110" id="2" weight="1.0" />
+      <edge source="ONMMKP_02110" target="ONMMKP_02115" id="3" weight="1.0" />
+      <edge source="ONMMKP_02115" target="ONMMKP_02120" id="4" weight="1.0" />
+      <edge source="ONMMKP_02120" target="ONMMKP_02125" id="5" weight="1.0" />
+      <edge source="ONMMKP_02125" target="ONMMKP_02130" id="6" weight="1.0" />
+      <edge source="ONMMKP_02130" target="HFCAGB_08335" id="7" weight="1.0" />
+      <edge source="HFCAGB_08335" target="AJBGEP_08525" id="8" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

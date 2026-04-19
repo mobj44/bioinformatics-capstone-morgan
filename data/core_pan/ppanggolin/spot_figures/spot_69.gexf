@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_05985" label="AJBGEP_05985">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="fabG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05990" label="AJBGEP_05990">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ptsG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05995" label="AJBGEP_05995">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="fabF" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06175" label="LNHIMF_06175">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06180" label="LNHIMF_06180">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06185" label="LNHIMF_06185">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06190" label="LNHIMF_06190">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="sfmD" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06195" label="LNHIMF_06195">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lpfB" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_06200" label="LNHIMF_06200">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06000" label="AJBGEP_06000">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pabC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06005" label="AJBGEP_06005">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yceG" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_05985" target="AJBGEP_05990" id="0" weight="1.0" />
+      <edge source="AJBGEP_05990" target="AJBGEP_05995" id="1" weight="1.0" />
+      <edge source="AJBGEP_05995" target="LNHIMF_06175" id="2" weight="1.0" />
+      <edge source="LNHIMF_06175" target="LNHIMF_06180" id="3" weight="1.0" />
+      <edge source="LNHIMF_06180" target="LNHIMF_06185" id="4" weight="1.0" />
+      <edge source="LNHIMF_06185" target="LNHIMF_06190" id="5" weight="1.0" />
+      <edge source="LNHIMF_06190" target="LNHIMF_06195" id="6" weight="1.0" />
+      <edge source="LNHIMF_06195" target="LNHIMF_06200" id="7" weight="1.0" />
+      <edge source="LNHIMF_06200" target="AJBGEP_06000" id="8" weight="1.0" />
+      <edge source="AJBGEP_06000" target="AJBGEP_06005" id="9" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

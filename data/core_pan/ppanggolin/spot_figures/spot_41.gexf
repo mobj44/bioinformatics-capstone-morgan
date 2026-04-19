@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_16705" label="AJBGEP_16705">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yqhD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16710" label="AJBGEP_16710">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="dkgA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16715" label="AJBGEP_16715">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="citT" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15920" label="BEJGEH_15920">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15925" label="BEJGEH_15925">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15930" label="BEJGEH_15930">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yqhH" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15935" label="BEJGEH_15935">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15940" label="BEJGEH_15940">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15945" label="BEJGEH_15945">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15950" label="BEJGEH_15950">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_15955" label="BEJGEH_15955">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16730" label="AJBGEP_16730">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ygiQ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16735" label="AJBGEP_16735">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="dctP" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_16705" target="AJBGEP_16710" id="0" weight="1.0" />
+      <edge source="AJBGEP_16710" target="AJBGEP_16715" id="1" weight="1.0" />
+      <edge source="AJBGEP_16715" target="BEJGEH_15920" id="2" weight="1.0" />
+      <edge source="BEJGEH_15920" target="BEJGEH_15925" id="3" weight="1.0" />
+      <edge source="BEJGEH_15925" target="BEJGEH_15930" id="4" weight="1.0" />
+      <edge source="BEJGEH_15930" target="BEJGEH_15935" id="5" weight="1.0" />
+      <edge source="BEJGEH_15935" target="BEJGEH_15940" id="6" weight="1.0" />
+      <edge source="BEJGEH_15940" target="BEJGEH_15945" id="7" weight="1.0" />
+      <edge source="BEJGEH_15945" target="BEJGEH_15950" id="8" weight="1.0" />
+      <edge source="BEJGEH_15950" target="BEJGEH_15955" id="9" weight="1.0" />
+      <edge source="BEJGEH_15955" target="AJBGEP_16730" id="10" weight="1.0" />
+      <edge source="AJBGEP_16730" target="AJBGEP_16735" id="11" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -9,18 +9,6 @@ services:
     platform: linux/amd64 
     entrypoint: "/docker-entrypoint.sh"
 
-  quast:
-    build:
-      context: .
-      dockerfile: docker/quast/Dockerfile
-    image: quast:5.2.0
-    container_name: quast
-    volumes:
-      - ./data/genomes_raw:/input:ro
-      - ./data/assembly_evaluation/quast:/output
-      - ./scripts/run_quast.sh:/docker-entrypoint.sh
-    entrypoint: "/docker-entrypoint.sh"
-
   bakta:
     image: quay.io/biocontainers/bakta:1.8.2--pyhdfd78af_0
     container_name: bakta
@@ -28,7 +16,45 @@ services:
     volumes:
       - ./data/genomes_raw:/input:ro
       - ./analysis/assembly_evaluation/:/selection/:ro
-      - ./data/databases/bakta:/db:ro
+      - ./data/databases/bakta_db:/db:ro
       - ./data/genome_annotation/bakta:/output
-      - ./scripts/annotate.sh:/docker-entrypoint.sh
+      - ./scripts/busco_annotate.sh:/docker-entrypoint.sh
     entrypoint: ["/bin/bash", "/docker-entrypoint.sh"]
+
+
+  panaroo:
+    image: quay.io/biocontainers/panaroo:1.6.0--pyhdfd78af_0
+    container_name: panaroo
+    volumes: 
+      - ./data/genome_annotation/bakta/:/input:ro
+      - ./analysis/assembly_evaluation/:/selection/:ro
+      - ./data/core_pan/:/output
+      - ./scripts/panaroo_pangenome.sh:/docker-entrypoint.sh
+    entrypoint: ["/bin/bash", "/docker-entrypoint.sh"]
+
+  ppanggolin:
+    image: quay.io/biocontainers/ppanggolin:2.3.0--py310h7c10099_0
+    container_name: ppanggolin
+    volumes: 
+      - ./data/genome_annotation/bakta/:/input:ro
+      - ./analysis/assembly_evaluation/:/selection/:ro
+      - ./data/core_pan/:/output
+      - ./scripts/ppanggolin_pangenome.sh:/docker-entrypoint.sh
+    entrypoint: ["/bin/bash", "/docker-entrypoint.sh"]
+
+  rstudio:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rstudio
+    platform: linux/amd64
+    ports:
+      - "8787:8787"
+    environment:
+      USER: rstudio
+      PASSWORD: rstudio
+    volumes:
+      - ./data:/home/rstudio/data
+      - ./analysis:/home/rstudio/analysis
+      - ./scripts:/home/rstudio/scripts
+      - ./rstudio_libs:/usr/local/lib/R/site-library

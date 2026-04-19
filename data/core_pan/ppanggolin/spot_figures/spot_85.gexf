@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_16975" label="AJBGEP_16975">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tar" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16970" label="AJBGEP_16970">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="padR" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16965" label="AJBGEP_16965">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="viuB" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09105" label="PKJKAM_09105">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09110" label="PKJKAM_09110">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09115" label="PKJKAM_09115">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09120" label="PKJKAM_09120">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09125" label="PKJKAM_09125">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09130" label="PKJKAM_09130">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09135" label="PKJKAM_09135">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09140" label="PKJKAM_09140">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09145" label="PKJKAM_09145">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09150" label="PKJKAM_09150">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09155" label="PKJKAM_09155">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09160" label="PKJKAM_09160">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09165" label="PKJKAM_09165">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09170" label="PKJKAM_09170">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09175" label="PKJKAM_09175">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09180" label="PKJKAM_09180">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09185" label="PKJKAM_09185">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yjcR" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09190" label="PKJKAM_09190">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09195" label="PKJKAM_09195">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09200" label="PKJKAM_09200">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09205" label="PKJKAM_09205">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09210" label="PKJKAM_09210">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09215" label="PKJKAM_09215">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09220" label="PKJKAM_09220">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09225" label="PKJKAM_09225">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09230" label="PKJKAM_09230">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_87" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09235" label="PKJKAM_09235">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09240" label="PKJKAM_09240">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_20685" label="ONMMKP_20685">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_20690" label="ONMMKP_20690">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_13325" label="BEJGEH_13325">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_13320" label="BEJGEH_13320">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_13315" label="BEJGEH_13315">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09270" label="PKJKAM_09270">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09275" label="PKJKAM_09275">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09280" label="PKJKAM_09280">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09285" label="PKJKAM_09285">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_13290" label="BEJGEH_13290">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_69" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="PKJKAM_09295" label="PKJKAM_09295">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16955" label="AJBGEP_16955">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mug" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16950" label="AJBGEP_16950">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rpoD" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_16975" target="AJBGEP_16970" id="0" weight="1.0" />
+      <edge source="AJBGEP_16970" target="AJBGEP_16965" id="1" weight="1.0" />
+      <edge source="AJBGEP_16965" target="PKJKAM_09105" id="2" weight="1.0" />
+      <edge source="PKJKAM_09105" target="PKJKAM_09110" id="3" weight="1.0" />
+      <edge source="PKJKAM_09110" target="PKJKAM_09115" id="4" weight="1.0" />
+      <edge source="PKJKAM_09115" target="PKJKAM_09120" id="5" weight="1.0" />
+      <edge source="PKJKAM_09120" target="PKJKAM_09125" id="6" weight="1.0" />
+      <edge source="PKJKAM_09125" target="PKJKAM_09130" id="7" weight="1.0" />
+      <edge source="PKJKAM_09130" target="PKJKAM_09135" id="8" weight="1.0" />
+      <edge source="PKJKAM_09135" target="PKJKAM_09140" id="9" weight="1.0" />
+      <edge source="PKJKAM_09140" target="PKJKAM_09145" id="10" weight="1.0" />
+      <edge source="PKJKAM_09145" target="PKJKAM_09150" id="11" weight="1.0" />
+      <edge source="PKJKAM_09150" target="PKJKAM_09155" id="12" weight="1.0" />
+      <edge source="PKJKAM_09155" target="PKJKAM_09160" id="13" weight="1.0" />
+      <edge source="PKJKAM_09160" target="PKJKAM_09165" id="14" weight="1.0" />
+      <edge source="PKJKAM_09165" target="PKJKAM_09170" id="15" weight="1.0" />
+      <edge source="PKJKAM_09170" target="PKJKAM_09175" id="16" weight="1.0" />
+      <edge source="PKJKAM_09175" target="PKJKAM_09180" id="17" weight="1.0" />
+      <edge source="PKJKAM_09180" target="PKJKAM_09185" id="18" weight="1.0" />
+      <edge source="PKJKAM_09185" target="PKJKAM_09190" id="19" weight="1.0" />
+      <edge source="PKJKAM_09190" target="PKJKAM_09195" id="20" weight="1.0" />
+      <edge source="PKJKAM_09195" target="PKJKAM_09200" id="21" weight="1.0" />
+      <edge source="PKJKAM_09200" target="PKJKAM_09205" id="22" weight="1.0" />
+      <edge source="PKJKAM_09205" target="PKJKAM_09210" id="23" weight="1.0" />
+      <edge source="PKJKAM_09210" target="PKJKAM_09215" id="24" weight="1.0" />
+      <edge source="PKJKAM_09215" target="PKJKAM_09220" id="25" weight="1.0" />
+      <edge source="PKJKAM_09220" target="PKJKAM_09225" id="26" weight="1.0" />
+      <edge source="PKJKAM_09225" target="PKJKAM_09230" id="27" weight="1.0" />
+      <edge source="PKJKAM_09230" target="PKJKAM_09235" id="28" weight="1.0" />
+      <edge source="PKJKAM_09235" target="PKJKAM_09240" id="29" weight="1.0" />
+      <edge source="PKJKAM_09240" target="ONMMKP_20685" id="30" weight="1.0" />
+      <edge source="ONMMKP_20685" target="ONMMKP_20690" id="31" weight="1.0" />
+      <edge source="ONMMKP_20690" target="BEJGEH_13325" id="32" weight="1.0" />
+      <edge source="BEJGEH_13325" target="BEJGEH_13320" id="33" weight="1.0" />
+      <edge source="BEJGEH_13320" target="BEJGEH_13315" id="34" weight="1.0" />
+      <edge source="BEJGEH_13315" target="PKJKAM_09270" id="35" weight="1.0" />
+      <edge source="PKJKAM_09270" target="PKJKAM_09275" id="36" weight="1.0" />
+      <edge source="PKJKAM_09275" target="PKJKAM_09280" id="37" weight="1.0" />
+      <edge source="PKJKAM_09280" target="PKJKAM_09285" id="38" weight="1.0" />
+      <edge source="PKJKAM_09285" target="BEJGEH_13290" id="39" weight="1.0" />
+      <edge source="BEJGEH_13290" target="PKJKAM_09295" id="40" weight="1.0" />
+      <edge source="PKJKAM_09295" target="AJBGEP_16955" id="41" weight="1.0" />
+      <edge source="AJBGEP_16955" target="AJBGEP_16950" id="42" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

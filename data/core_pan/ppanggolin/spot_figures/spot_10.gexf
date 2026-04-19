@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_02950" label="AJBGEP_02950">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="pheP" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02955" label="AJBGEP_02955">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="mscS" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02960" label="AJBGEP_02960">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02965" label="AJBGEP_02965">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="levR" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02970" label="AJBGEP_02970">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="agaS" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02975" label="AJBGEP_02975">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="glmS" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02980" label="AJBGEP_02980">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="manZ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02985" label="AJBGEP_02985">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="manY" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02990" label="AJBGEP_02990">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="agaB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_02995" label="AJBGEP_02995">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_2" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="manX" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03000" label="AJBGEP_03000">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="nfsB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03005" label="AJBGEP_03005">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="mmcQ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_03010" label="AJBGEP_03010">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ramR" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_02950" target="AJBGEP_02955" id="0" weight="0.6666666666666666" />
+      <edge source="AJBGEP_02955" target="AJBGEP_02960" id="1" weight="1.0" />
+      <edge source="AJBGEP_02960" target="AJBGEP_02965" id="2" weight="1.0" />
+      <edge source="AJBGEP_02965" target="AJBGEP_02970" id="3" weight="1.0" />
+      <edge source="AJBGEP_02970" target="AJBGEP_02975" id="4" weight="1.0" />
+      <edge source="AJBGEP_02975" target="AJBGEP_02980" id="5" weight="1.0" />
+      <edge source="AJBGEP_02980" target="AJBGEP_02985" id="6" weight="1.0" />
+      <edge source="AJBGEP_02985" target="AJBGEP_02990" id="7" weight="1.0" />
+      <edge source="AJBGEP_02990" target="AJBGEP_02995" id="8" weight="1.0" />
+      <edge source="AJBGEP_02995" target="AJBGEP_03000" id="9" weight="1.0" />
+      <edge source="AJBGEP_03000" target="AJBGEP_03005" id="10" weight="1.0" />
+      <edge source="AJBGEP_03005" target="AJBGEP_03010" id="11" weight="0.3333333333333333" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_15385" label="AJBGEP_15385">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_14530" label="BEJGEH_14530">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15375" label="AJBGEP_15375">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mutS" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_19790" label="IKCLMC_19790">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_04705" label="AJBGEP_04705">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_04710" label="AJBGEP_04710">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_19805" label="IKCLMC_19805">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15350" label="AJBGEP_15350">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_29" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15345" label="AJBGEP_15345">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_29" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15340" label="AJBGEP_15340">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_29" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15330" label="AJBGEP_15330">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="invH" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_15325" label="AJBGEP_15325">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="invF" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_15385" target="BEJGEH_14530" id="0" weight="1.0" />
+      <edge source="BEJGEH_14530" target="AJBGEP_15375" id="1" weight="1.0" />
+      <edge source="AJBGEP_15375" target="IKCLMC_19790" id="2" weight="1.0" />
+      <edge source="IKCLMC_19790" target="AJBGEP_04705" id="3" weight="1.0" />
+      <edge source="AJBGEP_04705" target="AJBGEP_04710" id="4" weight="1.0" />
+      <edge source="AJBGEP_04710" target="IKCLMC_19805" id="5" weight="1.0" />
+      <edge source="IKCLMC_19805" target="AJBGEP_15350" id="6" weight="1.0" />
+      <edge source="AJBGEP_15350" target="AJBGEP_15345" id="7" weight="1.0" />
+      <edge source="AJBGEP_15345" target="AJBGEP_15340" id="8" weight="1.0" />
+      <edge source="AJBGEP_15340" target="AJBGEP_15330" id="9" weight="1.0" />
+      <edge source="AJBGEP_15330" target="AJBGEP_15325" id="10" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

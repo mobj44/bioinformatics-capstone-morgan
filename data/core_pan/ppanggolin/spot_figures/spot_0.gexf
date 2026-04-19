@@ -1,0 +1,546 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_13810" label="AJBGEP_13810">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rnc" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_13815" label="AJBGEP_13815">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lepB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_13820" label="AJBGEP_13820">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="lepA" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_05955" label="IKCLMC_05955">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_25" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gogB" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_05950" label="IKCLMC_05950">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_25" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="sarA" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_05945" label="IKCLMC_05945">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_25" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_05940" label="IKCLMC_05940">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_25" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_09805" label="AJBGEP_09805">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_13850" label="AJBGEP_13850">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gpA1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_13855" label="AJBGEP_13855">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05245" label="AJBGEP_05245">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05240" label="AJBGEP_05240">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06510" label="AJBGEP_06510">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06505" label="AJBGEP_06505">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06500" label="AJBGEP_06500">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06495" label="AJBGEP_06495">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gp18" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06490" label="AJBGEP_06490">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06485" label="AJBGEP_06485">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06480" label="AJBGEP_06480">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06475" label="AJBGEP_06475">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06470" label="AJBGEP_06470">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="yjdB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06465" label="AJBGEP_06465">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06460" label="AJBGEP_06460">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="insQ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06455" label="AJBGEP_06455">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06450" label="AJBGEP_06450">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_08450" label="ODDLKH_08450">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_13945" label="AJBGEP_13945">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06435" label="AJBGEP_06435">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06430" label="AJBGEP_06430">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06425" label="AJBGEP_06425">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="sppA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06420" label="AJBGEP_06420">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06415" label="AJBGEP_06415">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06410" label="AJBGEP_06410">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gpA1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06405" label="AJBGEP_06405">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_13" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="nu1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_06400" label="AJBGEP_06400">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01445" label="IKCLMC_01445">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05130" label="AJBGEP_05130">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_7" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05125" label="AJBGEP_05125">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_7" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05120" label="AJBGEP_05120">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_7" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="gtgA" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01420" label="IKCLMC_01420">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01405" label="IKCLMC_01405">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01385" label="IKCLMC_01385">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14055" label="AJBGEP_14055">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ninG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14060" label="AJBGEP_14060">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_6" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ninG" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05085" label="AJBGEP_05085">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_6" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05080" label="AJBGEP_05080">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_6" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_05340" label="HFCAGB_05340">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="3" value="module_6" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="dinI" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01355" label="IKCLMC_01355">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01350" label="IKCLMC_01350">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14090" label="AJBGEP_14090">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01340" label="IKCLMC_01340">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05045" label="AJBGEP_05045">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01330" label="IKCLMC_01330">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01325" label="IKCLMC_01325">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01320" label="IKCLMC_01320">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01315" label="IKCLMC_01315">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_01310" label="IKCLMC_01310">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_26" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14130" label="AJBGEP_14130">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05025" label="AJBGEP_05025">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05015" label="AJBGEP_05015">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05010" label="AJBGEP_05010">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="recT" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05005" label="AJBGEP_05005">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_00435" label="IKCLMC_00435">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_27" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="xis" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_00440" label="IKCLMC_00440">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_27" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="fimB" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_00450" label="IKCLMC_00450">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_27" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14180" label="AJBGEP_14180">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rseC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_14185" label="AJBGEP_14185">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rseB" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_13810" target="AJBGEP_13815" id="0" weight="1.0" />
+      <edge source="AJBGEP_13815" target="AJBGEP_13820" id="1" weight="1.0" />
+      <edge source="AJBGEP_13820" target="IKCLMC_05955" id="2" weight="1.0" />
+      <edge source="IKCLMC_05955" target="IKCLMC_05950" id="3" weight="1.0" />
+      <edge source="IKCLMC_05950" target="IKCLMC_05945" id="4" weight="1.0" />
+      <edge source="IKCLMC_05945" target="IKCLMC_05940" id="5" weight="1.0" />
+      <edge source="IKCLMC_05940" target="AJBGEP_09805" id="6" weight="1.0" />
+      <edge source="AJBGEP_09805" target="AJBGEP_13850" id="7" weight="1.0" />
+      <edge source="AJBGEP_13850" target="AJBGEP_13855" id="8" weight="1.0" />
+      <edge source="AJBGEP_13855" target="AJBGEP_05245" id="9" weight="1.0" />
+      <edge source="AJBGEP_05245" target="AJBGEP_05240" id="10" weight="1.0" />
+      <edge source="AJBGEP_05240" target="AJBGEP_06510" id="11" weight="1.0" />
+      <edge source="AJBGEP_06510" target="AJBGEP_06505" id="12" weight="1.0" />
+      <edge source="AJBGEP_06505" target="AJBGEP_06500" id="13" weight="1.0" />
+      <edge source="AJBGEP_06500" target="AJBGEP_06495" id="14" weight="1.0" />
+      <edge source="AJBGEP_06495" target="AJBGEP_06490" id="15" weight="1.0" />
+      <edge source="AJBGEP_06490" target="AJBGEP_06485" id="16" weight="1.0" />
+      <edge source="AJBGEP_06485" target="AJBGEP_06480" id="17" weight="1.0" />
+      <edge source="AJBGEP_06480" target="AJBGEP_06475" id="18" weight="1.0" />
+      <edge source="AJBGEP_06475" target="AJBGEP_06470" id="19" weight="1.0" />
+      <edge source="AJBGEP_06470" target="AJBGEP_06465" id="20" weight="1.0" />
+      <edge source="AJBGEP_06465" target="AJBGEP_06460" id="21" weight="1.0" />
+      <edge source="AJBGEP_06460" target="AJBGEP_06455" id="22" weight="1.0" />
+      <edge source="AJBGEP_06455" target="AJBGEP_06450" id="23" weight="1.0" />
+      <edge source="AJBGEP_06450" target="ODDLKH_08450" id="24" weight="1.0" />
+      <edge source="ODDLKH_08450" target="AJBGEP_13945" id="25" weight="1.0" />
+      <edge source="AJBGEP_13945" target="AJBGEP_06435" id="26" weight="1.0" />
+      <edge source="AJBGEP_06435" target="AJBGEP_06430" id="27" weight="1.0" />
+      <edge source="AJBGEP_06430" target="AJBGEP_06425" id="28" weight="1.0" />
+      <edge source="AJBGEP_06425" target="AJBGEP_06420" id="29" weight="1.0" />
+      <edge source="AJBGEP_06420" target="AJBGEP_06415" id="30" weight="1.0" />
+      <edge source="AJBGEP_06415" target="AJBGEP_06410" id="31" weight="1.0" />
+      <edge source="AJBGEP_06410" target="AJBGEP_06405" id="32" weight="1.0" />
+      <edge source="AJBGEP_06405" target="AJBGEP_06400" id="33" weight="1.0" />
+      <edge source="AJBGEP_06400" target="IKCLMC_01445" id="34" weight="1.0" />
+      <edge source="IKCLMC_01445" target="AJBGEP_05130" id="35" weight="1.0" />
+      <edge source="AJBGEP_05130" target="AJBGEP_05125" id="36" weight="1.0" />
+      <edge source="AJBGEP_05125" target="AJBGEP_05120" id="37" weight="1.0" />
+      <edge source="AJBGEP_05120" target="IKCLMC_01420" id="38" weight="1.0" />
+      <edge source="IKCLMC_01420" target="IKCLMC_01405" id="39" weight="1.0" />
+      <edge source="IKCLMC_01405" target="IKCLMC_01385" id="40" weight="1.0" />
+      <edge source="IKCLMC_01385" target="AJBGEP_14055" id="41" weight="1.0" />
+      <edge source="AJBGEP_14055" target="AJBGEP_14060" id="42" weight="1.0" />
+      <edge source="AJBGEP_14060" target="AJBGEP_05085" id="43" weight="1.0" />
+      <edge source="AJBGEP_05085" target="AJBGEP_05080" id="44" weight="1.0" />
+      <edge source="AJBGEP_05080" target="HFCAGB_05340" id="45" weight="1.0" />
+      <edge source="HFCAGB_05340" target="IKCLMC_01355" id="46" weight="1.0" />
+      <edge source="IKCLMC_01355" target="IKCLMC_01350" id="47" weight="1.0" />
+      <edge source="IKCLMC_01350" target="AJBGEP_14090" id="48" weight="1.0" />
+      <edge source="AJBGEP_14090" target="IKCLMC_01340" id="49" weight="1.0" />
+      <edge source="IKCLMC_01340" target="AJBGEP_05045" id="50" weight="1.0" />
+      <edge source="AJBGEP_05045" target="IKCLMC_01330" id="51" weight="1.0" />
+      <edge source="IKCLMC_01330" target="IKCLMC_01325" id="52" weight="1.0" />
+      <edge source="IKCLMC_01325" target="IKCLMC_01320" id="53" weight="1.0" />
+      <edge source="IKCLMC_01320" target="IKCLMC_01315" id="54" weight="1.0" />
+      <edge source="IKCLMC_01315" target="IKCLMC_01310" id="55" weight="1.0" />
+      <edge source="IKCLMC_01310" target="AJBGEP_14130" id="56" weight="1.0" />
+      <edge source="AJBGEP_14130" target="AJBGEP_05025" id="57" weight="1.0" />
+      <edge source="AJBGEP_05025" target="AJBGEP_05015" id="58" weight="1.0" />
+      <edge source="AJBGEP_05015" target="AJBGEP_05010" id="59" weight="1.0" />
+      <edge source="AJBGEP_05010" target="AJBGEP_05005" id="60" weight="1.0" />
+      <edge source="AJBGEP_05005" target="IKCLMC_00435" id="61" weight="1.0" />
+      <edge source="IKCLMC_00435" target="IKCLMC_00440" id="62" weight="1.0" />
+      <edge source="IKCLMC_00440" target="IKCLMC_00450" id="63" weight="1.0" />
+      <edge source="IKCLMC_00450" target="AJBGEP_14180" id="64" weight="1.0" />
+      <edge source="AJBGEP_14180" target="AJBGEP_14185" id="65" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

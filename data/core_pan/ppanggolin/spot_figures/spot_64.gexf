@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_16715" label="AJBGEP_16715">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="citT" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16720" label="AJBGEP_16720">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="hinT" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16730" label="AJBGEP_16730">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="ygiQ" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_16100" label="LNHIMF_16100">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_77" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_16105" label="LNHIMF_16105">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_77" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_16110" label="LNHIMF_16110">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_77" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_16255" label="GEGEGB_16255">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_16115" label="LNHIMF_16115">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_77" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16750" label="AJBGEP_16750">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="ftsP" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16755" label="AJBGEP_16755">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="plsC" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_16715" target="AJBGEP_16720" id="0" weight="1.0" />
+      <edge source="AJBGEP_16720" target="AJBGEP_16730" id="1" weight="1.0" />
+      <edge source="AJBGEP_16730" target="LNHIMF_16100" id="2" weight="1.0" />
+      <edge source="LNHIMF_16100" target="LNHIMF_16105" id="3" weight="1.0" />
+      <edge source="LNHIMF_16105" target="LNHIMF_16110" id="4" weight="1.0" />
+      <edge source="LNHIMF_16110" target="LNHIMF_16110" id="5" weight="0.5" />
+      <edge source="LNHIMF_16110" target="GEGEGB_16255" id="6" weight="0.5" />
+      <edge source="LNHIMF_16110" target="LNHIMF_16115" id="7" weight="0.5" />
+      <edge source="GEGEGB_16255" target="LNHIMF_16115" id="8" weight="0.5" />
+      <edge source="LNHIMF_16115" target="AJBGEP_16750" id="9" weight="1.0" />
+      <edge source="AJBGEP_16750" target="AJBGEP_16755" id="10" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

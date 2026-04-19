@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_20210" label="AJBGEP_20210">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20215" label="AJBGEP_20215">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="yidC" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_20490" label="HFCAGB_20490">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="mnmE" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20225" label="AJBGEP_20225">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20230" label="AJBGEP_20230">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20245" label="AJBGEP_20245">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20250" label="AJBGEP_20250">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ykfC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20255" label="AJBGEP_20255">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20260" label="AJBGEP_20260">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="mdtL" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_20500" label="HFCAGB_20500">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="yidZ" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_20270" label="AJBGEP_20270">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="sfp" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14705" label="ONMMKP_14705">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14765" label="ONMMKP_14765">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+          <attvalue for="2" value="tniA" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14715" label="ONMMKP_14715">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14720" label="ONMMKP_14720">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14725" label="ONMMKP_14725">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="spoIVCA" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14730" label="ONMMKP_14730">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merE" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_23525" label="LNHIMF_23525">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merD" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14740" label="ONMMKP_14740">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merA" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14745" label="ONMMKP_14745">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merF" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14750" label="ONMMKP_14750">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_83" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merP" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14755" label="ONMMKP_14755">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_83" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merT" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14760" label="ONMMKP_14760">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_83" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="merR" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14775" label="ONMMKP_14775">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14780" label="ONMMKP_14780">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14785" label="ONMMKP_14785">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14795" label="ONMMKP_14795">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14800" label="ONMMKP_14800">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="aac(3)-IId" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_23735" label="LNHIMF_23735">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="insB" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14810" label="ONMMKP_14810">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14815" label="ONMMKP_14815">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14820" label="ONMMKP_14820">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="rmtC" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14825" label="ONMMKP_14825">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14830" label="ONMMKP_14830">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14835" label="ONMMKP_14835">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14840" label="ONMMKP_14840">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14845" label="ONMMKP_14845">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="sul1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14850" label="ONMMKP_14850">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="qacEdelta1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14855" label="ONMMKP_14855">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14860" label="ONMMKP_14860">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="dfrA1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14865" label="ONMMKP_14865">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="estX" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14870" label="ONMMKP_14870">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="intI1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14875" label="ONMMKP_14875">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14880" label="ONMMKP_14880">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ftsH" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14885" label="ONMMKP_14885">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14890" label="ONMMKP_14890">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14895" label="ONMMKP_14895">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14900" label="ONMMKP_14900">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14905" label="ONMMKP_14905">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14910" label="ONMMKP_14910">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14915" label="ONMMKP_14915">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14920" label="ONMMKP_14920">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14925" label="ONMMKP_14925">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mcjB" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14930" label="ONMMKP_14930">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14935" label="ONMMKP_14935">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="traH" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14940" label="ONMMKP_14940">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="traG" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14945" label="ONMMKP_14945">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14950" label="ONMMKP_14950">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14955" label="ONMMKP_14955">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14960" label="ONMMKP_14960">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14965" label="ONMMKP_14965">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14970" label="ONMMKP_14970">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="traN" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14975" label="ONMMKP_14975">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="traN" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14980" label="ONMMKP_14980">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ONMMKP_14985" label="ONMMKP_14985">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_12705" label="IKCLMC_12705">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="IKCLMC_12710" label="IKCLMC_12710">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_20210" target="AJBGEP_20215" id="0" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20215" target="HFCAGB_20490" id="1" weight="1.0" />
+      <edge source="HFCAGB_20490" target="AJBGEP_20225" id="2" weight="0.6666666666666666" />
+      <edge source="HFCAGB_20490" target="ONMMKP_14985" id="3" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20225" target="AJBGEP_20230" id="4" weight="0.6666666666666666" />
+      <edge source="AJBGEP_20230" target="AJBGEP_20245" id="5" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20230" target="IKCLMC_12710" id="6" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20245" target="AJBGEP_20250" id="7" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20250" target="AJBGEP_20255" id="8" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20255" target="AJBGEP_20260" id="9" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20260" target="HFCAGB_20500" id="10" weight="1.0" />
+      <edge source="AJBGEP_20260" target="ONMMKP_14705" id="11" weight="0.3333333333333333" />
+      <edge source="AJBGEP_20260" target="IKCLMC_12705" id="12" weight="0.3333333333333333" />
+      <edge source="HFCAGB_20500" target="AJBGEP_20270" id="13" weight="0.6666666666666666" />
+      <edge source="ONMMKP_14705" target="ONMMKP_14765" id="14" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14765" target="ONMMKP_14715" id="15" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14765" target="ONMMKP_14760" id="16" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14715" target="ONMMKP_14720" id="17" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14715" target="ONMMKP_14775" id="18" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14720" target="ONMMKP_14725" id="19" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14725" target="ONMMKP_14730" id="20" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14730" target="LNHIMF_23525" id="21" weight="0.3333333333333333" />
+      <edge source="LNHIMF_23525" target="ONMMKP_14740" id="22" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14740" target="ONMMKP_14745" id="23" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14745" target="ONMMKP_14750" id="24" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14750" target="ONMMKP_14755" id="25" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14755" target="ONMMKP_14760" id="26" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14775" target="ONMMKP_14780" id="27" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14780" target="ONMMKP_14785" id="28" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14785" target="ONMMKP_14795" id="29" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14795" target="ONMMKP_14800" id="30" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14800" target="LNHIMF_23735" id="31" weight="0.3333333333333333" />
+      <edge source="LNHIMF_23735" target="ONMMKP_14810" id="32" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14810" target="ONMMKP_14815" id="33" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14815" target="ONMMKP_14820" id="34" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14820" target="ONMMKP_14825" id="35" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14825" target="ONMMKP_14830" id="36" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14830" target="ONMMKP_14835" id="37" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14835" target="ONMMKP_14840" id="38" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14840" target="ONMMKP_14845" id="39" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14845" target="ONMMKP_14850" id="40" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14850" target="ONMMKP_14855" id="41" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14855" target="ONMMKP_14860" id="42" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14860" target="ONMMKP_14865" id="43" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14865" target="ONMMKP_14870" id="44" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14870" target="ONMMKP_14875" id="45" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14875" target="ONMMKP_14880" id="46" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14880" target="ONMMKP_14885" id="47" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14885" target="ONMMKP_14890" id="48" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14890" target="ONMMKP_14895" id="49" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14895" target="ONMMKP_14900" id="50" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14900" target="ONMMKP_14905" id="51" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14905" target="ONMMKP_14910" id="52" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14910" target="ONMMKP_14915" id="53" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14915" target="ONMMKP_14920" id="54" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14920" target="ONMMKP_14925" id="55" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14925" target="ONMMKP_14930" id="56" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14930" target="ONMMKP_14935" id="57" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14935" target="ONMMKP_14940" id="58" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14940" target="ONMMKP_14945" id="59" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14945" target="ONMMKP_14950" id="60" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14950" target="ONMMKP_14955" id="61" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14955" target="ONMMKP_14960" id="62" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14960" target="ONMMKP_14965" id="63" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14965" target="ONMMKP_14970" id="64" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14970" target="ONMMKP_14975" id="65" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14975" target="ONMMKP_14980" id="66" weight="0.3333333333333333" />
+      <edge source="ONMMKP_14980" target="ONMMKP_14985" id="67" weight="0.3333333333333333" />
+      <edge source="IKCLMC_12705" target="IKCLMC_12710" id="68" weight="0.3333333333333333" />
+    </edges>
+  </graph>
+</gexf>

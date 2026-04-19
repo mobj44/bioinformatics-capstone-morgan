@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+    </attributes>
+    <nodes>
+      <node id="HFCAGB_16530" label="HFCAGB_16530">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ecfT" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16255" label="AJBGEP_16255">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ecfA2" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16260" label="AJBGEP_16260">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="cysA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15630" label="LNHIMF_15630">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15635" label="LNHIMF_15635">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mtlR" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15640" label="LNHIMF_15640">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="glpX" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15645" label="LNHIMF_15645">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tdh" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15650" label="LNHIMF_15650">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mtlA" />
+        </attvalues>
+      </node>
+      <node id="LNHIMF_15655" label="LNHIMF_15655">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="cmtB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16265" label="AJBGEP_16265">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tkt" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_16270" label="AJBGEP_16270">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="htpX" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="HFCAGB_16530" target="AJBGEP_16255" id="0" weight="1.0" />
+      <edge source="AJBGEP_16255" target="AJBGEP_16260" id="1" weight="1.0" />
+      <edge source="AJBGEP_16260" target="LNHIMF_15630" id="2" weight="1.0" />
+      <edge source="LNHIMF_15630" target="LNHIMF_15635" id="3" weight="1.0" />
+      <edge source="LNHIMF_15635" target="LNHIMF_15640" id="4" weight="1.0" />
+      <edge source="LNHIMF_15640" target="LNHIMF_15645" id="5" weight="1.0" />
+      <edge source="LNHIMF_15645" target="LNHIMF_15650" id="6" weight="1.0" />
+      <edge source="LNHIMF_15650" target="LNHIMF_15655" id="7" weight="1.0" />
+      <edge source="LNHIMF_15655" target="AJBGEP_16265" id="8" weight="1.0" />
+      <edge source="AJBGEP_16265" target="AJBGEP_16270" id="9" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

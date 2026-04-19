@@ -14,15 +14,15 @@ selected_busco_data <- busco_data %>%
     arrange(desc(n50))
 
 keep <- selected_busco_data %>%
-    filter(complete_percentage >= 95)
+    filter(complete_percentage >= 90)
 get_rid <- selected_busco_data %>%
-    filter(complete_percentage < 95)
+    filter(complete_percentage < 90)
 
 
 
-# uncomment to get keep and get rid as md tables
-# knitr::kable(keep, caption = "Genomes with a BUSCO above 95%")
-# knitr::kable(get_rid, caption = "Genomes with a BUSCO below 95%")
+# uncomment to get keep and get tables in md format for README
+# knitr::kable(keep, caption = "Genomes with a BUSCO above 90%")
+# knitr::kable(get_rid, caption = "Genomes with a BUSCO below 90%")
 
 write.csv(
     keep,

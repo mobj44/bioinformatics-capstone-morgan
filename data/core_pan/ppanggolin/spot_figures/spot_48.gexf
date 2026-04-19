@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_05685" label="AJBGEP_05685">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="torD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05680" label="AJBGEP_05680">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ycdX" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_05675" label="AJBGEP_05675">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="ghrA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_04710" label="AJBGEP_04710">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09820" label="BEJGEH_09820">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_04705" label="AJBGEP_04705">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="tnp" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_10850" label="HFCAGB_10850">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09835" label="BEJGEH_09835">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09840" label="BEJGEH_09840">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09845" label="BEJGEH_09845">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10805" label="AJBGEP_10805">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mtfA" />
+        </attvalues>
+      </node>
+      <node id="GEGEGB_04695" label="GEGEGB_04695">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09870" label="BEJGEH_09870">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09875" label="BEJGEH_09875">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09880" label="BEJGEH_09880">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09885" label="BEJGEH_09885">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pilV" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09890" label="BEJGEH_09890">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="pilS" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09895" label="BEJGEH_09895">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="traD" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09900" label="BEJGEH_09900">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="mobQ" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09905" label="BEJGEH_09905">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11230" label="HFCAGB_11230">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09915" label="BEJGEH_09915">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09920" label="BEJGEH_09920">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09925" label="BEJGEH_09925">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09930" label="BEJGEH_09930">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09935" label="BEJGEH_09935">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09940" label="BEJGEH_09940">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09945" label="BEJGEH_09945">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11275" label="HFCAGB_11275">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11280" label="HFCAGB_11280">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09960" label="BEJGEH_09960">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09965" label="BEJGEH_09965">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09970" label="BEJGEH_09970">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+          <attvalue for="2" value="alpA" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09975" label="BEJGEH_09975">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09980" label="BEJGEH_09980">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="3" value="module_51" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09985" label="BEJGEH_09985">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_09995" label="BEJGEH_09995">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_10000" label="BEJGEH_10000">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_10005" label="BEJGEH_10005">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_10010" label="BEJGEH_10010">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11320" label="HFCAGB_11320">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="ODDLKH_12505" label="ODDLKH_12505">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="BEJGEH_10035" label="BEJGEH_10035">
+        <attvalues>
+          <attvalue for="0" value="cloud" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_10835" label="AJBGEP_10835">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="HFCAGB_11345" label="HFCAGB_11345">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_05685" target="AJBGEP_05680" id="0" weight="1.0" />
+      <edge source="AJBGEP_05680" target="AJBGEP_05675" id="1" weight="1.0" />
+      <edge source="AJBGEP_05675" target="AJBGEP_04710" id="2" weight="1.0" />
+      <edge source="AJBGEP_04710" target="BEJGEH_09820" id="3" weight="1.0" />
+      <edge source="BEJGEH_09820" target="AJBGEP_04705" id="4" weight="1.0" />
+      <edge source="AJBGEP_04705" target="HFCAGB_10850" id="5" weight="1.0" />
+      <edge source="HFCAGB_10850" target="BEJGEH_09835" id="6" weight="1.0" />
+      <edge source="BEJGEH_09835" target="BEJGEH_09840" id="7" weight="1.0" />
+      <edge source="BEJGEH_09840" target="BEJGEH_09845" id="8" weight="1.0" />
+      <edge source="BEJGEH_09845" target="AJBGEP_10805" id="9" weight="1.0" />
+      <edge source="AJBGEP_10805" target="GEGEGB_04695" id="10" weight="1.0" />
+      <edge source="GEGEGB_04695" target="BEJGEH_09870" id="11" weight="1.0" />
+      <edge source="BEJGEH_09870" target="BEJGEH_09875" id="12" weight="1.0" />
+      <edge source="BEJGEH_09875" target="BEJGEH_09880" id="13" weight="1.0" />
+      <edge source="BEJGEH_09880" target="BEJGEH_09885" id="14" weight="1.0" />
+      <edge source="BEJGEH_09885" target="BEJGEH_09890" id="15" weight="1.0" />
+      <edge source="BEJGEH_09890" target="BEJGEH_09895" id="16" weight="1.0" />
+      <edge source="BEJGEH_09895" target="BEJGEH_09900" id="17" weight="1.0" />
+      <edge source="BEJGEH_09900" target="BEJGEH_09905" id="18" weight="1.0" />
+      <edge source="BEJGEH_09905" target="HFCAGB_11230" id="19" weight="1.0" />
+      <edge source="HFCAGB_11230" target="BEJGEH_09915" id="20" weight="1.0" />
+      <edge source="BEJGEH_09915" target="BEJGEH_09920" id="21" weight="1.0" />
+      <edge source="BEJGEH_09920" target="BEJGEH_09925" id="22" weight="1.0" />
+      <edge source="BEJGEH_09925" target="BEJGEH_09930" id="23" weight="1.0" />
+      <edge source="BEJGEH_09930" target="BEJGEH_09935" id="24" weight="1.0" />
+      <edge source="BEJGEH_09935" target="BEJGEH_09940" id="25" weight="1.0" />
+      <edge source="BEJGEH_09940" target="BEJGEH_09945" id="26" weight="1.0" />
+      <edge source="BEJGEH_09945" target="HFCAGB_11275" id="27" weight="1.0" />
+      <edge source="HFCAGB_11275" target="HFCAGB_11280" id="28" weight="1.0" />
+      <edge source="HFCAGB_11280" target="BEJGEH_09960" id="29" weight="1.0" />
+      <edge source="BEJGEH_09960" target="BEJGEH_09965" id="30" weight="1.0" />
+      <edge source="BEJGEH_09965" target="BEJGEH_09970" id="31" weight="1.0" />
+      <edge source="BEJGEH_09970" target="BEJGEH_09975" id="32" weight="1.0" />
+      <edge source="BEJGEH_09975" target="BEJGEH_09980" id="33" weight="1.0" />
+      <edge source="BEJGEH_09980" target="BEJGEH_09985" id="34" weight="1.0" />
+      <edge source="BEJGEH_09985" target="BEJGEH_09995" id="35" weight="1.0" />
+      <edge source="BEJGEH_09995" target="BEJGEH_10000" id="36" weight="1.0" />
+      <edge source="BEJGEH_10000" target="BEJGEH_10005" id="37" weight="1.0" />
+      <edge source="BEJGEH_10005" target="BEJGEH_10010" id="38" weight="1.0" />
+      <edge source="BEJGEH_10010" target="HFCAGB_11320" id="39" weight="1.0" />
+      <edge source="HFCAGB_11320" target="ODDLKH_12505" id="40" weight="1.0" />
+      <edge source="ODDLKH_12505" target="BEJGEH_10035" id="41" weight="1.0" />
+      <edge source="BEJGEH_10035" target="AJBGEP_10835" id="42" weight="1.0" />
+      <edge source="AJBGEP_10835" target="HFCAGB_11345" id="43" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

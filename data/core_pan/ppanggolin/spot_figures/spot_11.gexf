@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-04-15">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="partition" type="string" />
+      <attribute id="1" title="occurrence" type="long" />
+      <attribute id="2" title="name" type="string" />
+      <attribute id="3" title="module" type="string" />
+    </attributes>
+    <nodes>
+      <node id="AJBGEP_23925" label="AJBGEP_23925">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="deoA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23930" label="AJBGEP_23930">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="deoB" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23935" label="AJBGEP_23935">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="deoD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23940" label="AJBGEP_23940">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_42" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23945" label="AJBGEP_23945">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_42" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="fimD" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23950" label="AJBGEP_23950">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_42" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="fimC" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23955" label="AJBGEP_23955">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_42" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23960" label="AJBGEP_23960">
+        <attvalues>
+          <attvalue for="0" value="shell" />
+          <attvalue for="3" value="module_42" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23965" label="AJBGEP_23965">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="lplA" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23970" label="AJBGEP_23970">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="6" />
+          <attvalue for="2" value="smp" />
+        </attvalues>
+      </node>
+      <node id="AJBGEP_23975" label="AJBGEP_23975">
+        <attvalues>
+          <attvalue for="0" value="persistent" />
+          <attvalue for="1" value="3" />
+          <attvalue for="2" value="serB" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="AJBGEP_23925" target="AJBGEP_23930" id="0" weight="0.5" />
+      <edge source="AJBGEP_23930" target="AJBGEP_23935" id="1" weight="1.0" />
+      <edge source="AJBGEP_23935" target="AJBGEP_23940" id="2" weight="1.0" />
+      <edge source="AJBGEP_23940" target="AJBGEP_23945" id="3" weight="1.0" />
+      <edge source="AJBGEP_23945" target="AJBGEP_23950" id="4" weight="1.0" />
+      <edge source="AJBGEP_23950" target="AJBGEP_23955" id="5" weight="1.0" />
+      <edge source="AJBGEP_23955" target="AJBGEP_23960" id="6" weight="1.0" />
+      <edge source="AJBGEP_23960" target="AJBGEP_23965" id="7" weight="1.0" />
+      <edge source="AJBGEP_23965" target="AJBGEP_23970" id="8" weight="1.0" />
+      <edge source="AJBGEP_23970" target="AJBGEP_23975" id="9" weight="0.5" />
+    </edges>
+  </graph>
+</gexf>
