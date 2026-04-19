@@ -17,14 +17,15 @@ Data was gathered from a previous study:
 These genomes were originally generated using Sanger sequencing of fosmid libraries, as outlined in the above source publication.
 
 ## Tools Used
+Versions are handled in the docker compose file. No specific verions need to be downloaded to run. 
 
 | Tool   | Version    | Notes                                            |
 | ------ | ---------- | ------------------------------------------------ |
 | Docker | v24.0.6    | All tools are containerized for reproducibility. |
 | BUSCO  | v6.0.0_cv1 |
-| Bakta  | <version>   |   |
-| Panaroo | | | 
-| PPanGGOLiN | | |
+| Bakta  | bakta:1.8.2--pyhdfd78af_0  | w/Docker tag  |
+| Panaroo |  panaroo:1.6.0--pyhdfd78af_0|w/Docker tag | 
+| PPanGGOLiN | ppanggolin:2.3.0--py310h7c10099_0| w/Docker tag|
 
 
 
@@ -41,7 +42,8 @@ These genomes were originally generated using Sanger sequencing of fosmid librar
 1. View analysis `csv` files located in `analysis/assembly_evaluation/`  
 1. Run `./scripts/analyze_busco_data.R` to filter out genomes with low busco scores
 1. Run `docker compose up -d bakta` for Bakta annotation
-1. Run 
+1. Run: `docker compose up -d panaroo`
+1. Run: `docker compose up -d ppanggolin`
 
 ## Naming Conventions and Directory Structure
 
@@ -138,5 +140,8 @@ when you want to exit logs: `ctrl+c`
 ## Pangenome analysis
 
 ### Panaroo
+Run: `docker compose up -d panaroo`
 
 ### PPanGGOLiN
+Run: `docker compose up -d ppanggolin`
+
