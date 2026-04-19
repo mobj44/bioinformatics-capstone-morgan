@@ -1,0 +1,62 @@
+Product,Gene_Name,Count,Example_Tag,DbXrefs,Priority
+Outer membrane lipoprotein,NA,18,GEGEGB_03708,"SO:0001217, UniRef:UniRef50_S5MXC2",Tier 1 - Known phage receptor class
+Outer membrane protein,NA,18,GEGEGB_00748,"SO:0001217, UniRef:UniRef50_Q7CQ92",Tier 1 - Known phage receptor class
+Ail/Lom family outer membrane beta-barrel protein,NA,9,GEGEGB_02645,"SO:0001217, UniRef:UniRef50_A0A2J4YQS5",Tier 1 - Known phage receptor class
+DNA uptake porin HofQ,hofQ,9,GEGEGB_04237,"SO:0001217, UniRef:UniRef50_A0A7L7IMV1",Tier 1 - Known phage receptor class
+Flagellar hook protein FlgE,flgE,9,GEGEGB_01839,"SO:0001217, UniRef:UniRef50_A0A2T7AJ89",Tier 1 - Known phage receptor class
+Flagellar hook-associated protein 1,NA,9,GEGEGB_01833,"SO:0001217, UniRef:UniRef50_A0A376TIC6",Tier 1 - Known phage receptor class
+Flagellar hook-associated protein 3,NA,9,GEGEGB_01832,"SO:0001217, UniRef:UniRef50_Q6D6G9",Tier 1 - Known phage receptor class
+Flagellar hook-basal body complex protein FliE,fliE,9,GEGEGB_00974,"SO:0001217, UniRef:UniRef50_A0A0U5GMW4",Tier 1 - Known phage receptor class
+Ion channel protein Tsx,NA,9,GEGEGB_00470,"SO:0001217, UniRef:UniRef50_D3VLA1",Tier 1 - Known phage receptor class
+LPS-assembly lipoprotein LptE,lptE,9,GEGEGB_02335,"SO:0001217, UniRef:UniRef50_A0A653VNZ2",Tier 1 - Known phage receptor class
+LPS-assembly protein LptD,lptD,9,GEGEGB_00100,"SO:0001217, UniRef:UniRef50_B4F2H9",Tier 1 - Known phage receptor class
+Maltoporin,NA,9,GEGEGB_04363,"SO:0001217, UniRef:UniRef50_A0A2P7RBI5",Tier 1 - Known phage receptor class
+Nucleoside-specific channel-forming protein Tsx,NA,9,GEGEGB_02576,"SO:0001217, UniRef:UniRef50_P0A927",Tier 1 - Known phage receptor class
+Outer membrane lipoprotein Blc,NA,9,GEGEGB_04625,"SO:0001217, UniRef:UniRef50_A0A8S0G642",Tier 1 - Known phage receptor class
+Outer membrane lipoprotein DolP,dolP,9,GEGEGB_03350,"SO:0001217, UniRef:UniRef50_P64596",Tier 1 - Known phage receptor class
+Outer membrane lipoprotein RcsF,rcsF,9,GEGEGB_00266,"SO:0001217, UniRef:UniRef50_P69411",Tier 1 - Known phage receptor class
+Outer membrane porin C 2,NA,9,GEGEGB_00641,"SO:0001217, UniRef:UniRef50_A0A4P7TME1",Tier 1 - Known phage receptor class
+Outer membrane protein TolC,tolC,9,GEGEGB_03261,"SO:0001217, UniRef:UniRef50_P02930",Tier 1 - Known phage receptor class
+Outer membrane protein W,NA,9,GEGEGB_01734,"SO:0001217, UniRef:UniRef50_P0A915",Tier 1 - Known phage receptor class
+Outer membrane protein X,NA,9,GEGEGB_02162,"SO:0001217, UniRef:UniRef50_P0A917",Tier 1 - Known phage receptor class
+Outer membrane protein YcfR,ycfR,9,GEGEGB_01799,"SO:0001217, UniRef:UniRef50_D8MRQ4",Tier 1 - Known phage receptor class
+Outer membrane protein YfaZ,yfaZ,9,GEGEGB_00609,"SO:0001217, UniRef:UniRef50_P76471",Tier 1 - Known phage receptor class
+Outer membrane protein beta-barrel domain-containing protein,NA,9,GEGEGB_03091,"SO:0001217, UniRef:UniRef50_V7IX70",Tier 1 - Known phage receptor class
+Porin,NA,9,GEGEGB_02854,"SO:0001217, UniRef:UniRef50_A7MPW9",Tier 1 - Known phage receptor class
+Porin OmpL,ompL,9,GEGEGB_03793,"SO:0001217, UniRef:UniRef50_P76773",Tier 1 - Known phage receptor class
+Protein TonB,tonB,9,GEGEGB_01739,"SO:0001217, UniRef:UniRef50_P02929",Tier 1 - Known phage receptor class
+Salt-induced outer membrane protein,NA,9,GEGEGB_01276,"SO:0001217, UniRef:UniRef50_B2VEJ4",Tier 1 - Known phage receptor class
+Type 1 fimbrial protein,NA,9,GEGEGB_00033,"SO:0001217, UniRef:UniRef50_A0A764GR16",Tier 1 - Known phage receptor class
+omptin family outer membrane protease PgtE,pgtE,9,GEGEGB_00503,"BlastRules:WP_000716007, SO:0001217, UniRef:UniRef50_P17811",Tier 1 - Known phage receptor class
+outer membrane lipoprotein SlyB,slyB,9,GEGEGB_01387,"BlastRules:WP_000597179, SO:0001217, UniRef:UniRef50_A0A1B8HQ76",Tier 1 - Known phage receptor class
+porin OmpF,ompF,9,GEGEGB_02038,"BlastRules:WP_000977709, SO:0001217, UniRef:UniRef50_Q56113",Tier 1 - Known phage receptor class
+surface-exposed outer membrane lipoprotein YaiW,yaiW,9,GEGEGB_02617,"BlastRules:WP_000092067, BlastRules:WP_001271421, SO:0001217, UniRef:UniRef50_A0A2H9U6B9",Tier 1 - Known phage receptor class
+type 1 fimbrial protein subunit FimA,fimA,9,GEGEGB_02436,"BlastRules:WP_000681030, BlastRules:WP_000681037, SO:0001217, UniRef:UniRef50_P0ABW5",Tier 1 - Known phage receptor class
+type I fimbriae adaptor protein FimF,fimF,9,GEGEGB_02431,"SO:0001217, UniRef:UniRef50_P38052, VFDB:VFC0001, VFDB:VFG000448",Tier 1 - Known phage receptor class
+"type I fimbriae minor fimbrial subunit FimH, adhesin",fimH,9,GEGEGB_02432,"SO:0001217, UniRef:UniRef50_A8AJR9, VFDB:VFC0001, VFDB:VFG000447",Tier 1 - Known phage receptor class
+virulence membrane protein PagC,pagC,9,GEGEGB_01186,"BlastRules:WP_000789471, SO:0001217, UniRef:UniRef50_A0A024J5Z1",Tier 1 - Known phage receptor class
+Outer membrane porin PhoE,phoE,8,LNHIMF_01582,"SO:0001217, UniRef:UniRef50_A0A348DJ11",Tier 1 - Known phage receptor class
+"RND efflux system, outer membrane lipoprotein, NodT family",nodT,8,GEGEGB_00728,"SO:0001217, UniRef:UniRef50_E3GC31",Tier 1 - Known phage receptor class
+adhesin/invasin protein PagN,pagN,8,GEGEGB_02676,"BlastRules:WP_000787603, SO:0001217, UniRef:UniRef50_Q8ZRJ9",Tier 1 - Known phage receptor class
+chitoporin,chiP,8,GEGEGB_02302,"BlastRules:WP_001258803, SO:0001217, UniRef:UniRef50_P75733",Tier 1 - Known phage receptor class
+porin OmpA,ompA,8,GEGEGB_01955,"BlastRules:WP_002898408, BlastRules:WP_010989142, SO:0001217, UniRef:UniRef50_A0A451DAD6",Tier 1 - Known phage receptor class
+type 1 fimbrial protein subunit FimI,fimI,8,GEGEGB_02435,"BlastRules:WP_000619606, SO:0001217, UniRef:UniRef50_Q08456",Tier 1 - Known phage receptor class
+Outer membrane porin protein C,NA,1,GEGEGB_01526,"SO:0001217, UniRef:UniRef50_A0A484X247",Tier 1 - Known phage receptor class
+Flagellar basal-body rod protein FlgF,flgF,18,GEGEGB_01837,"SO:0001217, UniRef:UniRef50_A0A2S5THT3",Tier 2 - Surface-associated
+Fimbrial usher protein,NA,17,GEGEGB_04881,"SO:0001217, UniRef:UniRef50_Q8ZJU1",Tier 2 - Surface-associated
+Autotransporter domain-containing protein,NA,9,GEGEGB_02470,"SO:0001217, UniRef:UniRef50_A0A1X1D1Y9",Tier 2 - Surface-associated
+Fimbrial outer membrane usher protein StdB,stdB,9,GEGEGB_03088,"SO:0001217, UniRef:UniRef50_A0A5U9WYF0",Tier 2 - Surface-associated
+Fimbrial usher protein StbD,stbD,9,GEGEGB_02656,"SO:0001217, UniRef:UniRef50_A0A6P1V930",Tier 2 - Surface-associated
+Flagellar L-ring protein,NA,9,GEGEGB_01836,"SO:0001217, UniRef:UniRef50_F7RW61",Tier 2 - Surface-associated
+Flagellar P-ring protein,NA,9,GEGEGB_01835,"SO:0001217, UniRef:UniRef50_A0A0E3ZKT4",Tier 2 - Surface-associated
+Flagellar basal body rod protein FlgB,flgB,9,GEGEGB_01842,"SO:0001217, UniRef:UniRef50_P16437",Tier 2 - Surface-associated
+Flagellar basal-body rod protein FlgC,flgC,9,GEGEGB_01841,"SO:0001217, UniRef:UniRef50_A0A653ZK36",Tier 2 - Surface-associated
+Inverse autotransporter beta-domain domain-containing protein,NA,9,GEGEGB_01661,"SO:0001217, UniRef:UniRef50_V1H4F9",Tier 2 - Surface-associated
+"Outer membrane pore protein N, non-specific",NA,9,GEGEGB_02662,"SO:0001217, UniRef:UniRef50_A0A285B4F0",Tier 2 - Surface-associated
+fimbrial usher BcfC,bcfC,8,LNHIMF_00024,"BlastRules:WP_001245864, SO:0001217, UniRef:UniRef50_A0A5U2F4X5",Tier 2 - Surface-associated
+intimin-like inverse autotransporter SinH,sinH,8,LNHIMF_02648,"NCBIProtein:AAL21411.1, SO:0001217, UniRef:UniRef50_A0A447N6D5, VFDB:VFC0001, VFDB:VFG002307",Tier 2 - Surface-associated
+non-fimbrial adhesin SiiE,siiE,8,LNHIMF_04337,"BlastRules:WP_000527217, SO:0001217, UniRef:UniRef50_A0A379QWY4",Tier 2 - Surface-associated
+putative autotransporter,misL,8,LNHIMF_03797,"SO:0001217, UniRef:UniRef50_A0A5I9EM74, VFDB:VFC0001, VFDB:VFG002304",Tier 2 - Surface-associated
+trimeric autotransporter adhesin SadA,sadA,8,LNHIMF_03726,"BlastRules:WP_001079584, SO:0001217, UniRef:UniRef50_A0A3Q9KVF6",Tier 2 - Surface-associated
+Autotransporter domain-containing esterase,NA,7,GEGEGB_02410,"SO:0001217, UniRef:UniRef50_A0A379S832",Tier 2 - Surface-associated
+Autotransporter adhesin SadA,sadA,1,GEGEGB_04039,"SO:0001217, UniRef:UniRef50_A0A5T9EF34",Tier 2 - Surface-associated

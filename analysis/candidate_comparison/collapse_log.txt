@@ -1,0 +1,120 @@
+Candidate Collapse Log - 2026-04-19 18:53:37.114777
+
+============================== 
+Processing tool: panaroo 
+Raw rows: 100 
+Valid candidate rows: 100 
+Unique candidates: 91 
+Candidates with duplicates: 8 
+Total duplicate rows collapsed: 9 
+Top duplicated candidates: 
+# A tibble: 8 × 2 
+  Candidate     n 
+  <chr>     <int> 
+1 ompC          3 
+2 fimA          2 
+3 misL          2 
+4 ompA          2 
+5 ompS1         2 
+6 pagN          2 
+7 shdA          2 
+8 tolC          2 
+Source breakdown: 
+# A tibble: 2 × 2 
+  Source_Type     n 
+  <chr>       <int> 
+1 Gene_Name      78 
+2 Product        22 
+Rows dropped (no gene or product): 0 
+============================== 
+
+============================== 
+Processing tool: peppen 
+Raw rows: 61 
+Valid candidate rows: 61 
+Unique candidates: 60 
+Candidates with duplicates: 1 
+Total duplicate rows collapsed: 1 
+Top duplicated candidates: 
+# A tibble: 1 × 2 
+  Candidate     n 
+  <chr>     <int> 
+1 sadA          2 
+Source breakdown: 
+# A tibble: 2 × 2 
+  Source_Type     n 
+  <chr>       <int> 
+1 Gene_Name      37 
+2 Product        24 
+Rows dropped (no gene or product): 0 
+============================== 
+
+============================== 
+Processing tool: pirate 
+Raw rows: 55 
+Valid candidate rows: 55 
+Unique candidates: 51 
+Candidates with duplicates: 3 
+Total duplicate rows collapsed: 4 
+Top duplicated candidates: 
+# A tibble: 3 × 2 
+  Candidate                  n 
+  <chr>                  <int> 
+1 Outer membrane protein     3 
+2 Fimbrial usher protein     2 
+3 flgF                       2 
+Source breakdown: 
+# A tibble: 2 × 2 
+  Source_Type     n 
+  <chr>       <int> 
+1 Gene_Name      33 
+2 Product        22 
+Rows dropped (no gene or product): 0 
+============================== 
+
+============================== 
+Processing tool: ppanggolin 
+Raw rows: 90 
+Valid candidate rows: 90 
+Unique candidates: 83 
+Candidates with duplicates: 6 
+Total duplicate rows collapsed: 7 
+Top duplicated candidates: 
+# A tibble: 6 × 2 
+  Candidate     n 
+  <chr>     <int> 
+1 ompC          3 
+2 fimA          2 
+3 misL          2 
+4 ompS1         2 
+5 pagN          2 
+6 tolC          2 
+Source breakdown: 
+# A tibble: 2 × 2 
+  Source_Type     n 
+  <chr>       <int> 
+1 Gene_Name      74 
+2 Product        16 
+Rows dropped (no gene or product): 0 
+============================== 
+
+============================== 
+Processing tool: roary 
+Raw rows: 59 
+Valid candidate rows: 59 
+Unique candidates: 58 
+Candidates with duplicates: 1 
+Total duplicate rows collapsed: 1 
+Top duplicated candidates: 
+# A tibble: 1 × 2 
+  Candidate     n 
+  <chr>     <int> 
+1 shdA          2 
+Source breakdown: 
+# A tibble: 2 × 2 
+  Source_Type     n 
+  <chr>       <int> 
+1 Gene_Name      35 
+2 Product        24 
+Rows dropped (no gene or product): 0 
+============================== 

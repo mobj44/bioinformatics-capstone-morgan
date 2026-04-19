@@ -44,6 +44,7 @@ Versions are handled in the docker compose file. No specific verions need to be 
 1. Run `docker compose up -d bakta` for Bakta annotation
 1. Run: `docker compose up -d panaroo`
 1. Run: `docker compose up -d ppanggolin`
+1. Run: `find_candidate_genes.R`
 
 ## Naming Conventions and Directory Structure
 
@@ -145,3 +146,5 @@ Run: `docker compose up -d panaroo`
 ### PPanGGOLiN
 Run: `docker compose up -d ppanggolin`
 
+## Core genes and Candidate Receptors
+Run: `find_candidate_genes.R`

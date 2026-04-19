@@ -1,0 +1,11 @@
+Number of tools compared: 5
+Tool names: panaroo, peppen, pirate, ppanggolin, roary
+Total unique candidates across all tools: 120
+Candidates present in all tools: 27
+
+Candidate counts by tool:
+panaroo: 91
+peppen: 60
+pirate: 51
+ppanggolin: 83
+roary: 58
