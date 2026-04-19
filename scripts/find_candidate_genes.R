@@ -8,7 +8,7 @@ ppanggolin_dir <- "data/core_pan/ppanggolin"
 
 bakta_dir <- "data/genome_annotation/bakta"
 
-base_output_dir <- "analysis/candidate_genes"
+base_output_dir <- "analysis/core_pan"
 
 panaroo_output_dir <- file.path(base_output_dir, "panaroo")
 ppanggolin_output_dir <- file.path(base_output_dir, "ppanggolin")
@@ -62,7 +62,6 @@ run_candidate_pipeline <- function(pres_abs, core_genes, accessory_genes, core_l
   # summary report
   report_file <- file.path(out_dir, "pangenome_summary.txt")
   lines <- c(
-    paste("Dataset:", prefix),
     paste("Total genes:", nrow(pres_abs)),
     paste("Core genes:", nrow(core_genes)),
     paste("Accessory genes:", nrow(accessory_genes)),

@@ -1,4 +1,3 @@
-Dataset: panaroo
 Total genes: 6618
 Core genes: 3693
 Accessory genes: 2925

@@ -1,4 +1,3 @@
-Dataset: ppanggolin
 Total genes: 6810
 Core genes: 3613
 Accessory genes: 3197

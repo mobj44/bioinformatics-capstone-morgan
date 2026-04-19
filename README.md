@@ -17,7 +17,7 @@ Data was gathered from a previous study:
 These genomes were originally generated using Sanger sequencing of fosmid libraries, as outlined in the above source publication.
 
 ## Tools Used
-Versions are handled in the docker compose file. No specific verions need to be downloaded to run. 
+Versions are handled in the docker compose file. No specific verions need to be downloaded to run. f
 
 | Tool   | Version    | Notes                                            |
 | ------ | ---------- | ------------------------------------------------ |
