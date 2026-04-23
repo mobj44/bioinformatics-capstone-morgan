@@ -1,0 +1,121 @@
+Candidate,Panaroo,PEPPEN,PIRATE,PPanGGOLiN,Roary
+Outer membrane protein,1,1,1,1,1
+Porin,1,1,1,1,1
+ompC,1,0,0,1,0
+Outer membrane lipoprotein,1,1,0,1,1
+fepA,1,0,0,1,0
+fimA,1,1,0,1,1
+tolC,1,1,1,1,1
+fliB,1,0,1,1,0
+fimI,1,1,0,1,1
+hofQ,1,1,1,1,1
+glpF,1,0,0,1,0
+lptE,1,1,1,1,1
+lptD,1,1,1,1,1
+lamB,1,0,0,1,0
+tsx,1,0,0,1,0
+ompA,1,1,0,1,0
+lpoA,1,0,0,1,0
+Outer membrane protein X,1,1,1,1,1
+ydiY,1,0,0,1,0
+slp,1,0,0,1,0
+exbD,1,0,0,1,0
+tonB,1,1,1,1,1
+pqqU,1,0,0,1,0
+btuB,1,0,0,1,0
+bcsC,1,0,0,1,0
+fhuA,1,0,1,0,0
+flgD,1,0,0,1,0
+fliK,1,0,0,1,0
+flgE,1,1,1,1,1
+flgK,1,0,0,1,0
+flgL,1,0,0,1,0
+fliE,1,1,1,1,1
+lapB,1,0,0,1,0
+lolB,1,0,0,1,0
+mdtQ,1,0,0,1,0
+pgtE,1,1,1,1,1
+slyB,1,1,0,1,1
+lolA,1,0,0,1,0
+ompW,1,0,0,1,0
+phoE,1,1,1,1,1
+ompF,1,1,1,1,1
+ompL,1,1,1,1,1
+putative outer membrane lipoprotein,1,0,0,1,0
+yaiW,1,1,1,1,1
+fimF,1,1,1,1,1
+fimH,1,1,1,1,1
+pagC,1,1,0,1,1
+pagN,1,1,1,1,1
+chiP,1,1,1,1,1
+ompS1,1,0,1,1,0
+sfsB,1,0,0,0,0
+ompS2,1,0,1,1,0
+N-acetylglucosamine-regulated outer membrane porin,1,0,0,1,0
+Type 1 fimbrial protein,1,1,0,1,1
+(pseudo) Putative outer membrane protein,1,0,0,1,0
+(pseudo) cellulose synthase subunit BcsC-related outer membrane protein,1,0,0,1,0
+Glycoporin,1,0,0,1,0
+Outer membrane protein C,1,0,0,1,0
+oprM,1,0,0,1,0
+Outer membrane protein for export and assembly of type 1 fimbriae,1,0,0,1,0
+Putative outer membrane protein,1,0,0,0,0
+type 1 fimbrial protein,1,0,0,1,0
+fimD,1,0,0,1,0
+yhjY,1,0,0,1,0
+sinH,1,1,1,1,1
+flgI,1,0,0,1,0
+flgF,1,1,1,1,1
+Inverse autotransporter beta-domain domain-containing protein,1,1,1,1,1
+stdB,1,1,0,1,1
+stbD,1,1,1,1,1
+flgH,1,0,0,1,0
+flgB,1,1,1,1,1
+flgC,1,1,1,1,1
+fliL,1,0,0,1,0
+fliF,1,0,0,1,0
+flgG,1,0,0,1,0
+bcfC,1,1,1,1,1
+siiE,1,1,1,1,0
+misL,1,1,1,1,1
+sadA,1,1,1,1,0
+shdA,1,0,0,0,1
+Autotransporter domain-containing protein,1,1,1,0,1
+bigA,1,0,1,0,0
+autotransporter outer membrane beta-barrel domain-containing protein,1,0,0,0,0
+Autotransporter outer membrane beta-barrel domain-containing protein,1,0,0,0,0
+Autotransporter,1,0,0,1,0
+stbC,1,0,0,1,0
+Putative surface-exposed virulence protein,1,0,0,0,0
+Surface-exposed virulence protein,1,0,0,0,0
+ehaB,1,0,0,0,0
+autotransporter-associated beta strand repeat-containing protein,1,0,0,0,0
+Ail/Lom family outer membrane beta-barrel protein,0,1,1,0,1
+Flagellar hook-associated protein 1,0,1,1,0,1
+Flagellar hook-associated protein 3,0,1,1,0,1
+Ion channel protein Tsx,0,1,1,0,1
+Maltoporin,0,1,1,0,1
+Nucleoside-specific channel-forming protein Tsx,0,1,1,0,1
+Outer membrane lipoprotein Blc,0,1,0,0,1
+dolP,0,1,0,0,1
+rcsF,0,1,0,0,1
+Outer membrane porin C 2,0,1,1,0,1
+Outer membrane protein W,0,1,1,0,1
+ycfR,0,1,1,0,1
+yfaZ,0,1,1,0,1
+Outer membrane protein beta-barrel domain-containing protein,0,1,1,0,1
+Salt-induced outer membrane protein,0,1,1,0,1
+nodT,0,1,0,0,1
+Outer membrane porin protein C,0,1,0,0,1
+Fimbrial usher protein,0,1,1,0,1
+Flagellar L-ring protein,0,1,0,0,1
+Flagellar P-ring protein,0,1,0,0,1
+"Outer membrane pore protein N, non-specific",0,1,0,0,1
+Autotransporter domain-containing esterase,0,1,1,0,0
+Flagellin,0,0,1,0,0
+Outer membrane pore protein N%2C non-specific,0,0,1,0,0
+lpp2,0,0,0,1,0
+ratB,0,0,0,1,0
+Major outer membrane lipoprotein Lpp,0,0,0,1,0
+envY,0,0,0,1,0
+Outer membrane autotransporter barrel domain protein,0,0,0,0,1

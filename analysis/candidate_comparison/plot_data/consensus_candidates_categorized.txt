@@ -1,0 +1,38 @@
+Consensus Candidates (n = 27)
+
+Fimbrial / adhesion-associated
+ - bcfC
+ - fimF
+ - fimH
+ - pagN
+ - stbD
+
+Flagellar / motility-associated
+ - flgB
+ - flgC
+ - flgE
+ - flgF
+
+LPS / O-antigen-associated
+ - lptD
+ - lptE
+
+Other surface-associated
+ - Inverse autotransporter beta-domain domain-containing protein
+ - misL
+ - sinH
+ - tonB
+
+Outer membrane / porins
+ - Outer membrane protein
+ - Outer membrane protein X
+ - Porin
+ - chiP
+ - fliE
+ - hofQ
+ - ompF
+ - ompL
+ - pgtE
+ - phoE
+ - tolC
+ - yaiW
